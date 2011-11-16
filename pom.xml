@@ -1,0 +1,113 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <!--
+     | POM Relationships
+     -->
+
+    <parent>
+        <groupId>net.codjo.pom</groupId>
+        <artifactId>codjo-pom-library</artifactId>
+        <version>SNAPSHOT</version>
+    </parent>
+    <groupId>net.codjo.product-ontology</groupId>
+    <artifactId>codjo-product-ontology</artifactId>
+    <version>1.26-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>net.codjo.ontology</groupId>
+            <artifactId>codjo-ontology-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>net.codjo.reflect</groupId>
+            <artifactId>codjo-reflect</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>net.codjo.plugin</groupId>
+            <artifactId>codjo-plugin-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>net.codjo.agent</groupId>
+            <artifactId>codjo-agent</artifactId>
+            <classifier>tests</classifier>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>net.codjo.ontology</groupId>
+            <artifactId>codjo-ontology-generator</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>net.codjo.test</groupId>
+            <artifactId>codjo-test-common</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>net.codjo.util</groupId>
+            <artifactId>codjo-util</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <!--
+    | Project Information
+    -->
+
+    <name>Ontology &gt; Product</name>
+    <description>Ontologie représentant un produit</description>
+    <inceptionYear>2007</inceptionYear>
+
+    <!--
+    | Environment Information
+    -->
+
+    <scm>
+        <connection>scm:git:https://github.com/codjo/codjo-product-ontology.git</connection>
+        <developerConnection>scm:git:https://github.com/codjo/codjo-product-ontology.git</developerConnection>
+        <url>https://github.com/codjo/codjo-product-ontology</url>
+    </scm>
+    <!--
+     | Build Settings
+     -->
+
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-antrun-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <phase>generate-sources</phase>
+                        <configuration>
+                            <tasks>
+                                <property name="test_classpath" refid="maven.test.classpath" />
+                                <java classname="net.codjo.ontology.generator.Main">
+                                    <arg value="src/main/ontology/configuration.xml" />
+                                    <classpath>
+                                        <pathelement path="${test_classpath}" />
+                                    </classpath>
+                                </java>
+                            </tasks>
+                            <sourceRoot>${project.build.directory}/generated-sources/java</sourceRoot>
+                        </configuration>
+                        <goals>
+                            <goal>run</goal>
+                        </goals>
+                    </execution>
+                    <execution>
+                        <id>add-xsd-to-jar</id>
+                        <phase>compile</phase>
+                        <configuration>
+                            <tasks>
+                                <copy file="target/generated-sources/xsd/product.xsd" todir="target/classes/META-INF" />
+                            </tasks>
+                        </configuration>
+                        <goals>
+                            <goal>run</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+        </plugins>
+    </build>
+</project>

@@ -1,0 +1,2017 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<status noNamespaceSchemaLocation="product.xsd">
+    <code>005</code>
+    <label>AGF REFERENCE</label>
+    <prorogDurationOpcvm>Néant</prorogDurationOpcvm>
+    <creationDateSt>0</creationDateSt>
+    <productType>de type OPCVM</productType>
+    <accountCloseLastYearSt>0</accountCloseLastYearSt>
+    <accountCloseFirstYearSt>0</accountCloseFirstYearSt>
+    <prorogDurationOpcvmSt>0</prorogDurationOpcvmSt>
+    <editionDateSt>0</editionDateSt>
+    <durationExistOpcvmSt>0</durationExistOpcvmSt>
+    <isProductTypeValuated>true</isProductTypeValuated>
+    <europeanCompliance>Conforme aux normes européennes</europeanCompliance>
+    <accountCloseDate>Dernière valeur liquidative du mois de Décembre</accountCloseDate>
+    <accountCloseDateSt>0</accountCloseDateSt>
+    <juridicalStructureSt>0</juridicalStructureSt>
+    <accountCloseFirstYear>2000-02-10 00:00:00.0</accountCloseFirstYear>
+    <agreementDate>2003-02-10 00:00:00.0</agreementDate>
+    <closeDate>9999-12-31 00:00:00.0</closeDate>
+    <productionCenterSt>0</productionCenterSt>
+    <editionDate>2003-01-01 00:00:00.0</editionDate>
+    <productionCenter>AGI</productionCenter>
+    <accountCloseLastYear>2005-02-10 00:00:00.0</accountCloseLastYear>
+    <juridicalStructure>SICAV</juridicalStructure>
+    <closeDateSt>0</closeDateSt>
+    <endDate>9999-12-31 00:00:00.0</endDate>
+    <agreementDateSt>0</agreementDateSt>
+    <creationDate>2000-01-01 00:00:00.0</creationDate>
+    <durationExistOpcvm>99 ans</durationExistOpcvm>
+    <beginDate>2000-01-01</beginDate>
+    <europeanComplianceSt>0</europeanComplianceSt>
+    <statusMandate>
+        <auxAccountsCode>true</auxAccountsCode>
+        <sifReported>true</sifReported>
+    </statusMandate>
+    <statusSicav>
+        <initialPayment>Versements en numeraire</initialPayment>
+        <limitAgeAdmin>20</limitAgeAdmin>
+        <compartmentsSolidarity>false</compartmentsSolidarity>
+        <useVideoConference>true</useVideoConference>
+        <initialPaymentSt>0</initialPaymentSt>
+        <contributionCalculationVl>false</contributionCalculationVl>
+        <actionsNumberSt>0</actionsNumberSt>
+        <actionsNumber>10</actionsNumber>
+        <directorsPresence>true</directorsPresence>
+        <recordingDateSt>0</recordingDateSt>
+        <mandateDurationSt>0</mandateDurationSt>
+        <mandateDuration>12 ans</mandateDuration>
+        <radiationDateSt>0</radiationDateSt>
+        <limitAgeAdminSt>0</limitAgeAdminSt>
+        <statutesLastUpdateDateSt>0</statutesLastUpdateDateSt>
+        <useAuthorizationMandate>false</useAuthorizationMandate>
+        <statutesLastUpdateDate>2008-01-01 00:00:00.0</statutesLastUpdateDate>
+        <recordingDate>2007-10-11 00:00:00.0</recordingDate>
+        <headOfficeAddress>2 square des combattants 75001 Paris FRANCE</headOfficeAddress>
+        <shareCapitalSt>0</shareCapitalSt>
+        <hedgedActions>false</hedgedActions>
+        <sicavRcsNumero>123456789</sicavRcsNumero>
+        <summonsModalitiesSt>0</summonsModalitiesSt>
+        <radiationDate>2007-12-31 00:00:00.0</radiationDate>
+        <headOfficeAddressSt>0</headOfficeAddressSt>
+        <sicavRcsNumeroSt>0</sicavRcsNumeroSt>
+        <summonsModalities>modalités</summonsModalities>
+    </statusSicav>
+    <statusActorList>
+        <statusActor>
+            <actorRole>Commissaire aux comptes</actorRole>
+            <actorRoleSelect>true</actorRoleSelect>
+            <isMandatory>true</isMandatory>
+            <actorAuditor>
+                <label>Commissaire aux comptes 1</label>
+            </actorAuditor>
+        </statusActor>
+        <statusActor>
+            <actorRole>Centralisateur</actorRole>
+            <actorRoleSelect>true</actorRoleSelect>
+            <isMandatory>true</isMandatory>
+            <actorCentralizer>
+                <label>AGF AM</label>
+            </actorCentralizer>
+        </statusActor>
+        <statusActor>
+            <actorRole>Commercialisateur</actorRole>
+            <actorRoleSelect>true</actorRoleSelect>
+            <isMandatory>true</isMandatory>
+            <actorCommercial>
+                <label>AGF AM</label>
+            </actorCommercial>
+        </statusActor>
+        <statusActor>
+            <actorRole>Dépositaire</actorRole>
+            <actorRoleSelect>true</actorRoleSelect>
+            <isMandatory>true</isMandatory>
+            <actorCustodian>
+                <nationality>française</nationality>
+                <label>Société Générale Securities Services</label>
+                <mainActivity>Dépositaire</mainActivity>
+                <headOfficeAddress>Cours Valmy La Défense 92300 COURBEVOIE - FRANCE</headOfficeAddress>
+                <orderCentralAddress>15 rue de la plage ST TROPEZ</orderCentralAddress>
+                <legalForm>Société anonyme</legalForm>
+                <mailAddress>20 boulevard Haussmann 75009 PARIS - FRANCE</mailAddress>
+                <information>Le dépositaire assure les fonctions de dépositaire, de centralisation des ordres et de tenue du registre</information>
+            </actorCustodian>
+        </statusActor>
+        <statusActor>
+            <actorRole>Gestionnaire Administratif et Comptable</actorRole>
+            <actorRoleSelect>true</actorRoleSelect>
+            <isMandatory>false</isMandatory>
+            <actorAgent>
+                <label>Délégataire 2</label>
+            </actorAgent>
+        </statusActor>
+        <statusActor>
+            <actorRole>Gestionnaire Comptable</actorRole>
+            <actorRoleSelect>true</actorRoleSelect>
+            <isMandatory>false</isMandatory>
+            <actorAgent>
+                <label>Délégataire 1</label>
+            </actorAgent>
+        </statusActor>
+        <statusActor>
+            <actorRole>Société de gestion</actorRole>
+            <actorRoleSelect>true</actorRoleSelect>
+            <isMandatory>true</isMandatory>
+            <actorFundManager>
+                <code>AGFAMB</code>
+                <phoneNumber>+ 33 1 45 45 45 45</phoneNumber>
+                <label>AGF AM BIS</label>
+                <mainActivity>Société de gestion de portefeuille</mainActivity>
+                <address2>75009 PARIS - FRANCE</address2>
+                <address1>20 rue lepeletier</address1>
+                <webSite>www.agf-am.com</webSite>
+                <legalForm>Société anonyme</legalForm>
+                <fundManagerRateList>
+                    <fundManagerRate>
+                        <fundManagerDate>2001-12-31</fundManagerDate>
+                        <equityRate>11.7000000</equityRate>
+                        <fixedIncomeRate>5.5050000</fixedIncomeRate>
+                    </fundManagerRate>
+                    <fundManagerRate>
+                        <year>2002</year>
+                        <fundManagerDate>2002-12-31</fundManagerDate>
+                        <equityRate>10.7760000</equityRate>
+                        <fixedIncomeRate>0.5050000</fixedIncomeRate>
+                    </fundManagerRate>
+                </fundManagerRateList>
+            </actorFundManager>
+        </statusActor>
+    </statusActorList>
+    <sicavActorList>
+        <sicavActor>
+            <actor>JHM Holding</actor>
+            <address>75 rue Richelieu 75009 Paris FRANCE</address>
+            <cashPaymentAmount>20000000.00</cashPaymentAmount>
+            <plainContributionAmount>128562.23</plainContributionAmount>
+            <roleActorId>4</roleActorId>
+            <roleSicav>1er Actionnaire</roleSicav>
+            <signing>Patrick Wilson</signing>
+        </sicavActor>
+        <sicavActor>
+            <actor>JHM Holding</actor>
+            <address>20, rue Le Peletier 75009 Paris</address>
+            <roleActorId>2</roleActorId>
+            <roleSicav>1er Administrateur</roleSicav>
+            <signing></signing>
+        </sicavActor>
+        <sicavActor>
+            <actor>JP Morgan</actor>
+            <address>5 bld Haussmann 75009 Paris FRANCE</address>
+            <cashPaymentAmount>500000000.00</cashPaymentAmount>
+            <plainContributionAmount>8936000.05</plainContributionAmount>
+            <roleActorId>3</roleActorId>
+            <roleSicav>1er Administrateur</roleSicav>
+            <signing></signing>
+        </sicavActor>
+        <sicavActor>
+            <actor>Société Générale AM</actor>
+            <address>5, rue montmartre 75009 Paris</address>
+            <roleActorId>1</roleActorId>
+            <roleSicav>1er Commissaire aux comptes</roleSicav>
+            <signing>Antoine FRADIN</signing>
+        </sicavActor>
+    </sicavActorList>
+    <segmentList>
+        <segment>
+            <code>05</code>
+            <label>AGF REFERENCE 05</label>
+            <labelSt>0</labelSt>
+            <computedSegmentLabel>AGF REFERENCE 05</computedSegmentLabel>
+            <mandateEndDateSt>0</mandateEndDateSt>
+            <creationDateSt>0</creationDateSt>
+            <classifReporting>lettre hebdo</classifReporting>
+            <classifMif>FCPR, FCPI, OPCI, Fonds de fonds alternatifs hors trésorerie</classifMif>
+            <classifMicropalSt>0</classifMicropalSt>
+            <guarantee>Banque AGF</guarantee>
+            <classifReportingSt>0</classifReportingSt>
+            <managementType>Active</managementType>
+            <classifAmfSt>0</classifAmfSt>
+            <opcvmOfOpcvm>Inférieur à 20 % de l&apos;actif net</opcvmOfOpcvm>
+            <webInvClassAssetSt>0</webInvClassAssetSt>
+            <classifMicropal>AM Japon</classifMicropal>
+            <externalValuation>false</externalValuation>
+            <managementPhiloSt>0</managementPhiloSt>
+            <classifAmf>Actions des pays de la communauté européenne</classifAmf>
+            <managementPhilo>Fondamentale</managementPhilo>
+            <webInvGeoZone>Japon</webInvGeoZone>
+            <fundsDepositDate>2005-02-10 00:00:00.0</fundsDepositDate>
+            <guaranteeCommentSt>0</guaranteeCommentSt>
+            <closeDate>9999-12-31 00:00:00.0</closeDate>
+            <guaranteeComment>description de garantie sur le compartiment 05</guaranteeComment>
+            <feederOpcvm>true</feederOpcvm>
+            <absorptionDate>2002-01-01 00:00:00.0</absorptionDate>
+            <classifMifSt>0</classifMifSt>
+            <investmentDuration>15 ans</investmentDuration>
+            <fundsDepositDateSt>0</fundsDepositDateSt>
+            <absorptionDateSt>0</absorptionDateSt>
+            <managementTypeSt>0</managementTypeSt>
+            <closeDateSt>0</closeDateSt>
+            <endDate>9999-12-31 00:00:00.0</endDate>
+            <mandateEndDate>2009-12-01 00:00:00.0</mandateEndDate>
+            <investmentDurationSt>0</investmentDurationSt>
+            <creationDate>2000-01-01 00:00:00.0</creationDate>
+            <webInvGeoZoneSt>0</webInvGeoZoneSt>
+            <beginDate>2000-01-01</beginDate>
+            <opcvmOfOpcvmSt>0</opcvmOfOpcvmSt>
+            <guaranteeSt>0</guaranteeSt>
+            <eqtyExposureDeriv>false</eqtyExposureDeriv>
+            <assetFixinc>
+                <fixIncInvestment>true</fixIncInvestment>
+                <fixIncHoldMin>0.00</fixIncHoldMin>
+                <fixIncHoldMinSt>0</fixIncHoldMinSt>
+                <fixIncHoldMax>50.00</fixIncHoldMax>
+                <fixIncHoldMaxSt>0</fixIncHoldMaxSt>
+                <fixIncExposureMin>90.00</fixIncExposureMin>
+                <fixIncExposureMinSt>0</fixIncExposureMinSt>
+                <fixIncExposureMax>110.00</fixIncExposureMax>
+                <fixIncExposureMaxSt>0</fixIncExposureMaxSt>
+                <vector>directs</vector>
+                <vectorSt>0</vectorSt>
+                <directVectorHoldMax>100.00</directVectorHoldMax>
+                <directVectorHoldMaxSt>0</directVectorHoldMaxSt>
+                <isr>partiel</isr>
+                <isrSt>0</isrSt>
+                <privateDebt>100.00</privateDebt>
+                <privateDebtSt>0</privateDebtSt>
+                <publicDebt>80.00</publicDebt>
+                <publicDebtSt>0</publicDebtSt>
+                <shortSpCreditAverage>A-1</shortSpCreditAverage>
+                <shortSpCreditAverageSt>0</shortSpCreditAverageSt>
+                <longSpCreditAverage>AA+</longSpCreditAverage>
+                <longSpCreditAverageSt>0</longSpCreditAverageSt>
+                <shortSpCreditLower>A-2</shortSpCreditLower>
+                <shortSpCreditLowerSt>0</shortSpCreditLowerSt>
+                <longSpCreditLower>A-</longSpCreditLower>
+                <longSpCreditLowerSt>0</longSpCreditLowerSt>
+                <infSpBbbMinusHold>10.00</infSpBbbMinusHold>
+                <infSpBbbMinusHoldSt>0</infSpBbbMinusHoldSt>
+                <sensibilityRange>0 - 8</sensibilityRange>
+                <sensibilityRangeSt>0</sensibilityRangeSt>
+                <currency>Toutes devises</currency>
+                <currencySt>0</currencySt>
+                <riskChangeExposure>true</riskChangeExposure>
+                <riskChangeExposureMax>100.00</riskChangeExposureMax>
+                <riskChangeExposureMaxSt>0</riskChangeExposureMaxSt>
+                <riskChangeResidual>100.00</riskChangeResidual>
+                <riskChangeResidualSt>0</riskChangeResidualSt>
+                <averageDuration>40</averageDuration>
+                <averageDurationSt>0</averageDurationSt>
+                <lowerDuration>20</lowerDuration>
+                <lowerDurationSt>0</lowerDurationSt>
+                <upperDuration>60</upperDuration>
+                <upperDurationSt>0</upperDurationSt>
+                <specifRestriction>false</specifRestriction>
+                <specificInstrument>false</specificInstrument>
+                <fixincInstrSt>0</fixincInstrSt>
+                <fixincSpecificRestrictSt>0</fixincSpecificRestrictSt>
+                <fixincZonegeoExclSt>0</fixincZonegeoExclSt>
+                <assetFixincGeozoneExclList>
+                    <assetFixincGeozoneExcl>
+                        <geozone>OCDE</geozone>
+                    </assetFixincGeozoneExcl>
+                    <assetFixincGeozoneExcl>
+                        <geozone>UE (hors Zone Euro)</geozone>
+                    </assetFixincGeozoneExcl>
+                </assetFixincGeozoneExclList>
+                <assetFixincGeozoneSelList>
+                    <assetFixincGeozoneSel>
+                        <geozone>Europe (hors UE)</geozone>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetFixincGeozoneSel>
+                    <assetFixincGeozoneSel>
+                        <geozone>France</geozone>
+                        <geozoneExpoMax>90.00</geozoneExpoMax>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMin>10.00</geozoneExpoMin>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMax>40.00</geozoneHoldMax>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMin>20.00</geozoneHoldMin>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetFixincGeozoneSel>
+                    <assetFixincGeozoneSel>
+                        <geozone>Japon</geozone>
+                        <geozoneExpoMax>70.00</geozoneExpoMax>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMin>30.00</geozoneExpoMin>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMax>60.00</geozoneHoldMax>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMin>20.00</geozoneHoldMin>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetFixincGeozoneSel>
+                    <assetFixincGeozoneSel>
+                        <geozone>Marchés émergents</geozone>
+                        <geozoneExpoMax>80.00</geozoneExpoMax>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMin>40.00</geozoneExpoMin>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMax>50.00</geozoneHoldMax>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMin>10.00</geozoneHoldMin>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetFixincGeozoneSel>
+                    <assetFixincGeozoneSel>
+                        <geozone>OCDE</geozone>
+                        <geozoneExpoMaxSt>-1</geozoneExpoMaxSt>
+                        <geozoneExpoMinSt>-1</geozoneExpoMinSt>
+                        <geozoneHoldMaxSt>-1</geozoneHoldMaxSt>
+                        <geozoneHoldMinSt>-1</geozoneHoldMinSt>
+                        <geozoneInvest>false</geozoneInvest>
+                    </assetFixincGeozoneSel>
+                    <assetFixincGeozoneSel>
+                        <geozone>UE (hors Zone Euro)</geozone>
+                        <geozoneExpoMaxSt>-1</geozoneExpoMaxSt>
+                        <geozoneExpoMinSt>-1</geozoneExpoMinSt>
+                        <geozoneHoldMaxSt>-1</geozoneHoldMaxSt>
+                        <geozoneHoldMinSt>-1</geozoneHoldMinSt>
+                        <geozoneInvest>false</geozoneInvest>
+                    </assetFixincGeozoneSel>
+                    <assetFixincGeozoneSel>
+                        <geozone>Zone Euro (hors France)</geozone>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetFixincGeozoneSel>
+                </assetFixincGeozoneSelList>
+                <assetFixincInstrSelList>
+                    <assetFixincInstrSel>
+                        <instr>Agency Bonds</instr>
+                    </assetFixincInstrSel>
+                    <assetFixincInstrSel>
+                        <instr>Bollets hypothécaires</instr>
+                    </assetFixincInstrSel>
+                </assetFixincInstrSelList>
+                <assetFixincRestrictSelList>
+                    <assetFixincRestrictSel>
+                        <restrict>50% minimum obligations françaises</restrict>
+                    </assetFixincRestrictSel>
+                    <assetFixincRestrictSel>
+                        <restrict>90% minimum de l&apos;actif net du FCP</restrict>
+                    </assetFixincRestrictSel>
+                </assetFixincRestrictSelList>
+            </assetFixinc>
+            <assetDerivative>
+                <derivativeHoldMax>100.00</derivativeHoldMax>
+                <forwardMarket>true</forwardMarket>
+                <specificRestriction>Commentaire sur la restriction</specificRestriction>
+                <derivativeHoldMinSt>0</derivativeHoldMinSt>
+                <derivativeHoldMaxSt>0</derivativeHoldMaxSt>
+                <leverageRatioMax>1.10</leverageRatioMax>
+                <derivativesStratSt>0</derivativesStratSt>
+                <regulatedMarket>true</regulatedMarket>
+                <derivativesInstrSt>0</derivativesInstrSt>
+                <derivativeInstrument>true</derivativeInstrument>
+                <derivativesOtherUseSt>0</derivativesOtherUseSt>
+                <organizedMarket>true</organizedMarket>
+                <specificRestrictionSt>0</specificRestrictionSt>
+                <derivativeHoldMin>20.00</derivativeHoldMin>
+                <leverageRatioMaxSt>0</leverageRatioMaxSt>
+                <assetDerivativeRiskSelList>
+                    <assetDerivativeRiskSel>
+                        <risk>Risque sur les actions de pays emergents</risk>
+                        <coverage>false</coverage>
+                        <exposition>false</exposition>
+                        <arbitrage>true</arbitrage>
+                    </assetDerivativeRiskSel>
+                </assetDerivativeRiskSelList>
+                <assetDerivStratSelList>
+                    <assetDerivStratSel>
+                        <strategy>Piloter le risque action</strategy>
+                    </assetDerivStratSel>
+                </assetDerivStratSelList>
+                <assetDerivativeUseSelList>
+                    <assetDerivativeUseSel>
+                        <useLabel>Prospectoire</useLabel>
+                    </assetDerivativeUseSel>
+                </assetDerivativeUseSelList>
+                <assetDerivInstrSelList>
+                    <assetDerivInstrSel>
+                        <instr>Change à terme</instr>
+                    </assetDerivInstrSel>
+                </assetDerivInstrSelList>
+            </assetDerivative>
+            <accountingInfo>
+                <couponAccountingMethod>couru</couponAccountingMethod>
+                <couponAccountingMethodSt>0</couponAccountingMethodSt>
+                <tradeAccountingMethod>frais exclus</tradeAccountingMethod>
+                <tradeAccountingMethodSt>0</tradeAccountingMethodSt>
+            </accountingInfo>
+            <businessInfo>
+                <accruedInterest>true</accruedInterest>
+                <baseValuationPrice>Fermeture</baseValuationPrice>
+                <baseValuationPriceSt>0</baseValuationPriceSt>
+                <centralPurchaseDay>Dernier Vendredi du mois</centralPurchaseDay>
+                <centralPurchaseDaySt>0</centralPurchaseDaySt>
+                <centralPurchaseTime>12h30</centralPurchaseTime>
+                <centralPurchaseTimeSt>0</centralPurchaseTimeSt>
+                <executeValuation>Lundi</executeValuation>
+                <executeValuationFrequency>HEB</executeValuationFrequency>
+                <executeValuationSt>0</executeValuationSt>
+                <extraValuation>true</extraValuation>
+                <extraValuationDescript>Commentaire suplémentaire sur la VL</extraValuationDescript>
+                <extraValuationDescriptSt>0</extraValuationDescriptSt>
+                <liquidationDay>Plus 2 jours</liquidationDay>
+                <liquidationDaySt>0</liquidationDaySt>
+                <replaceValCondition>Fermeture de paris et jour ferie</replaceValCondition>
+                <replaceValConditionSt>0</replaceValConditionSt>
+                <replaceValuation>Jour ouvré précédent</replaceValuation>
+                <replaceValuationSt>0</replaceValuationSt>
+                <subscribtionCondition>Cours connu</subscribtionCondition>
+                <subscribtionConditionSt>0</subscribtionConditionSt>
+                <valFrequency>Hebdomadaire</valFrequency>
+                <valFrequencySt>0</valFrequencySt>
+                <valuationDay>Lundi</valuationDay>
+                <valuationDaySt>0</valuationDaySt>
+                <valuationMarket>Commentaire sur les marchés spécifiques dont les cours déterminent la VL</valuationMarket>
+                <valuationMarketSt>0</valuationMarketSt>
+                <valuationPlace>Londres</valuationPlace>
+                <valuationPlaceSt>0</valuationPlaceSt>
+                <pubModalVl>Paris</pubModalVl>
+                <pubModalVlSt>0</pubModalVlSt>
+            </businessInfo>
+            <investmentRule>
+                <derExpEvalMethDetail>Commentaire sur les régles d&apos;investissemnt</derExpEvalMethDetail>
+                <derExpEvalMethDetailSt>0</derExpEvalMethDetailSt>
+                <derivativeExpoEvalMeth>Méthode probabiliste en VaR absolue avec dérogation au seuil</derivativeExpoEvalMeth>
+                <derivativeExpoEvalMethSt>0</derivativeExpoEvalMethSt>
+                <ratioDerogationTypeSt>0</ratioDerogationTypeSt>
+                <varThreshold>150.00</varThreshold>
+                <varThresholdSt>0</varThresholdSt>
+            </investmentRule>
+            <taxationInfo>
+                <fixIncomeEqtyHoldMax>40.00</fixIncomeEqtyHoldMax>
+                <fixIncomeEqtyHoldMaxSt>0</fixIncomeEqtyHoldMaxSt>
+                <fixIncomeEqtyPosition>Supérieur au seuil</fixIncomeEqtyPosition>
+                <fixIncomeEqtyPositionSt>0</fixIncomeEqtyPositionSt>
+                <savingPositionIn>1</savingPositionIn>
+                <savingPositionInSt>0</savingPositionInSt>
+                <taxingStatusSt>0</taxingStatusSt>
+            </taxationInfo>
+            <managementObjective>
+                <benchmarkGap>TE inf à 4 ou inférieur à 20% de la volatilité de l&apos;indice</benchmarkGap>
+                <benchmarkGapSt>0</benchmarkGapSt>
+                <horizonManagement>true</horizonManagement>
+                <managFeesDeduction>true</managFeesDeduction>
+                <managFeesDecreased>false</managFeesDecreased>
+                <managObjective>objectif de gestion classique sans indicateur de référence</managObjective>
+                <managObjectiveSt>0</managObjectiveSt>
+                <managObjectiveDesc>Description de l&apos;objectif de Gestion</managObjectiveDesc>
+                <managObjectiveDescSt>0</managObjectiveDescSt>
+                <opcvmTerm>31/12/2008</opcvmTerm>
+                <opcvmTermSt>0</opcvmTermSt>
+                <performanceLevel>supérieur ou égal</performanceLevel>
+                <performanceLevelSt>0</performanceLevelSt>
+                <recommendInvestHorizon>false</recommendInvestHorizon>
+                <referenceMarkets>Marché des actions françaises</referenceMarkets>
+                <referenceMarketsSt>0</referenceMarketsSt>
+                <surperfObjective>L&apos;objectif de superformance</surperfObjective>
+                <surperfObjectiveSt>0</surperfObjectiveSt>
+            </managementObjective>
+            <assetEquity>
+                <directVectorHoldMax>80.00</directVectorHoldMax>
+                <directVectorHoldMaxSt>0</directVectorHoldMaxSt>
+                <eqtyExposureMax>70.00</eqtyExposureMax>
+                <eqtyExposureMaxSt>0</eqtyExposureMaxSt>
+                <eqtyExposureMin>35.00</eqtyExposureMin>
+                <eqtyExposureMinSt>0</eqtyExposureMinSt>
+                <eqtyHoldMax>65.00</eqtyHoldMax>
+                <eqtyHoldMaxSt>0</eqtyHoldMaxSt>
+                <eqtyHoldMin>20.00</eqtyHoldMin>
+                <eqtyHoldMinSt>0</eqtyHoldMinSt>
+                <eqtyInvestSectorExclusive>true</eqtyInvestSectorExclusive>
+                <eqtyInvestment>true</eqtyInvestment>
+                <eqtySectorExclSt>0</eqtySectorExclSt>
+                <eqtySectorSelectSt>0</eqtySectorSelectSt>
+                <eqtySpecificRestrictionSt>0</eqtySpecificRestrictionSt>
+                <eqtyZonegeoExclSt>0</eqtyZonegeoExclSt>
+                <isr>partiel</isr>
+                <isrSt>0</isrSt>
+                <largeCaps>true</largeCaps>
+                <largeCapsHoldMax>55.00</largeCapsHoldMax>
+                <largeCapsHoldMaxSt>0</largeCapsHoldMaxSt>
+                <largeCapsHoldMin>5.00</largeCapsHoldMin>
+                <largeCapsHoldMinSt>0</largeCapsHoldMinSt>
+                <microCaps>true</microCaps>
+                <microCapsHoldMax>70.00</microCapsHoldMax>
+                <microCapsHoldMaxSt>0</microCapsHoldMaxSt>
+                <microCapsHoldMin>20.00</microCapsHoldMin>
+                <microCapsHoldMinSt>0</microCapsHoldMinSt>
+                <midCaps>true</midCaps>
+                <midCapsHoldMax>60.00</midCapsHoldMax>
+                <midCapsHoldMaxSt>0</midCapsHoldMaxSt>
+                <midCapsHoldMin>10.00</midCapsHoldMin>
+                <midCapsHoldMinSt>0</midCapsHoldMinSt>
+                <riskChangeExposure>true</riskChangeExposure>
+                <riskChangeExposureMax>75.00</riskChangeExposureMax>
+                <riskChangeExposureMaxSt>0</riskChangeExposureMaxSt>
+                <smallCaps>true</smallCaps>
+                <smallCapsHoldMax>65.00</smallCapsHoldMax>
+                <smallCapsHoldMaxSt>0</smallCapsHoldMaxSt>
+                <smallCapsHoldMin>15.00</smallCapsHoldMin>
+                <smallCapsHoldMinSt>0</smallCapsHoldMinSt>
+                <style>growth</style>
+                <styleSt>0</styleSt>
+                <unlisted>true</unlisted>
+                <unlistedHoldMax>75.00</unlistedHoldMax>
+                <unlistedHoldMaxSt>0</unlistedHoldMaxSt>
+                <unlistedHoldMin>25.00</unlistedHoldMin>
+                <unlistedHoldMinSt>0</unlistedHoldMinSt>
+                <vector>directs</vector>
+                <vectorSt>0</vectorSt>
+                <assetEquityGeozoneExclList>
+                    <assetEquityGeozoneExcl>
+                        <geozone>UE (hors Zone Euro)</geozone>
+                    </assetEquityGeozoneExcl>
+                    <assetEquityGeozoneExcl>
+                        <geozone>Zone Euro (hors France)</geozone>
+                    </assetEquityGeozoneExcl>
+                </assetEquityGeozoneExclList>
+                <assetEquityGeozoneSelList>
+                    <assetEquityGeozoneSel>
+                        <geozone>Europe (hors UE)</geozone>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetEquityGeozoneSel>
+                    <assetEquityGeozoneSel>
+                        <geozone>France</geozone>
+                        <geozoneExpoMax>90.00</geozoneExpoMax>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMin>10.00</geozoneExpoMin>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMax>40.00</geozoneHoldMax>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMin>20.00</geozoneHoldMin>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetEquityGeozoneSel>
+                    <assetEquityGeozoneSel>
+                        <geozone>Japon</geozone>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetEquityGeozoneSel>
+                    <assetEquityGeozoneSel>
+                        <geozone>Marchés émergents</geozone>
+                        <geozoneExpoMax>60.00</geozoneExpoMax>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMin>30.00</geozoneExpoMin>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMax>50.00</geozoneHoldMax>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMin>15.00</geozoneHoldMin>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetEquityGeozoneSel>
+                    <assetEquityGeozoneSel>
+                        <geozone>OCDE</geozone>
+                        <geozoneExpoMaxSt>0</geozoneExpoMaxSt>
+                        <geozoneExpoMinSt>0</geozoneExpoMinSt>
+                        <geozoneHoldMaxSt>0</geozoneHoldMaxSt>
+                        <geozoneHoldMinSt>0</geozoneHoldMinSt>
+                        <geozoneInvest>true</geozoneInvest>
+                    </assetEquityGeozoneSel>
+                    <assetEquityGeozoneSel>
+                        <geozone>UE (hors Zone Euro)</geozone>
+                        <geozoneExpoMaxSt>-1</geozoneExpoMaxSt>
+                        <geozoneExpoMinSt>-1</geozoneExpoMinSt>
+                        <geozoneHoldMaxSt>-1</geozoneHoldMaxSt>
+                        <geozoneHoldMinSt>-1</geozoneHoldMinSt>
+                        <geozoneInvest>false</geozoneInvest>
+                    </assetEquityGeozoneSel>
+                    <assetEquityGeozoneSel>
+                        <geozone>Zone Euro (hors France)</geozone>
+                        <geozoneExpoMaxSt>-1</geozoneExpoMaxSt>
+                        <geozoneExpoMinSt>-1</geozoneExpoMinSt>
+                        <geozoneHoldMaxSt>-1</geozoneHoldMaxSt>
+                        <geozoneHoldMinSt>-1</geozoneHoldMinSt>
+                        <geozoneInvest>false</geozoneInvest>
+                    </assetEquityGeozoneSel>
+                </assetEquityGeozoneSelList>
+                <assetEquitySectorExclList>
+                    <assetEquitySectorExcl>
+                        <sector>Industrie</sector>
+                    </assetEquitySectorExcl>
+                    <assetEquitySectorExcl>
+                        <sector>Materiels</sector>
+                    </assetEquitySectorExcl>
+                </assetEquitySectorExclList>
+                <assetEquitySectorSelList>
+                    <assetEquitySectorSel>
+                        <sector>Biens de consommation de base</sector>
+                    </assetEquitySectorSel>
+                    <assetEquitySectorSel>
+                        <sector>Consommation discrétionnaire</sector>
+                    </assetEquitySectorSel>
+                </assetEquitySectorSelList>
+                <assetEquityRestrictSelList>
+                    <assetEquityRestrictSel>
+                        <restrict>50% minimum actions françaises</restrict>
+                    </assetEquityRestrictSel>
+                    <assetEquityRestrictSel>
+                        <restrict>60% minimum actions zone euro</restrict>
+                    </assetEquityRestrictSel>
+                </assetEquityRestrictSelList>
+            </assetEquity>
+            <assetOther>
+                <cashLoan>true</cashLoan>
+                <cashLoanBroker>Société Générale Securities Services</cashLoanBroker>
+                <headOfficeAddress>Cours Valmy La Défense 92300 COURBEVOIE - FRANCE</headOfficeAddress>
+                <information>Le dépositaire assure les fonctions de dépositaire, de centralisation des ordres et de tenue du registre</information>
+                <legalForm>Société anonyme</legalForm>
+                <mailAddress>20 boulevard Haussmann 75009 PARIS - FRANCE</mailAddress>
+                <mainActivity>Dépositaire</mainActivity>
+                <nationality>française</nationality>
+                <orderCentralAddress>15 rue de la plage ST TROPEZ</orderCentralAddress>
+                <cashLoanBrokerSt>0</cashLoanBrokerSt>
+                <cashLoanHoldMax>50.00</cashLoanHoldMax>
+                <cashLoanHoldMaxSt>0</cashLoanHoldMaxSt>
+                <cashPosition>true</cashPosition>
+                <lbo>Effet levier 1</lbo>
+                <lboHoldMax>12.00</lboHoldMax>
+                <lboHoldMaxSt>0</lboHoldMaxSt>
+                <lboSt>0</lboSt>
+                <leaseSecurity>true</leaseSecurity>
+                <leaseSecurityHoldMax>10.00</leaseSecurityHoldMax>
+                <leaseSecurityHoldMaxSt>0</leaseSecurityHoldMaxSt>
+                <monetFinRefLoan>true</monetFinRefLoan>
+                <monetFinRefRepo>true</monetFinRefRepo>
+                <opcvmIncome>true</opcvmIncome>
+                <opcvmLbo>true</opcvmLbo>
+                <opcvmLboHoldMax>1.00</opcvmLboHoldMax>
+                <opcvmLboHoldMaxSt>0</opcvmLboHoldMaxSt>
+                <otherInterventionSt>0</otherInterventionSt>
+                <otherTradeSt>0</otherTradeSt>
+                <repurchaseRepo>oui</repurchaseRepo>
+                <repurchaseRepoSt>0</repurchaseRepoSt>
+                <reverseRepo>oui</reverseRepo>
+                <reverseRepoSt>0</reverseRepoSt>
+                <securityLending>oui</securityLending>
+                <securityLendingSt>0</securityLendingSt>
+                <securityLoan>oui</securityLoan>
+                <securityLoanSt>0</securityLoanSt>
+                <tradeDeposit>true</tradeDeposit>
+                <tradeDepositHoldMax>30.00</tradeDepositHoldMax>
+                <tradeDepositHoldMaxSt>0</tradeDepositHoldMaxSt>
+                <assetTypeInterSelList>
+                    <assetTypeInterSel>
+                        <intervention>Nature d&apos;intervention 2</intervention>
+                        <information>Information2</information>
+                    </assetTypeInterSel>
+                </assetTypeInterSelList>
+                <assetTypeTradeSelList>
+                    <assetTypeTradeSel>
+                        <trade>Nature d&apos;operation 1</trade>
+                        <information>Information1</information>
+                    </assetTypeTradeSel>
+                    <assetTypeTradeSel>
+                        <trade>Nature d&apos;operation 2</trade>
+                        <information>Information2</information>
+                    </assetTypeTradeSel>
+                </assetTypeTradeSelList>
+            </assetOther>
+            <assetTitri>
+                <titriAbcp>true</titriAbcp>
+                <titriAbcpHoldMax>60.00</titriAbcpHoldMax>
+                <titriAbcpHoldMaxSt>0</titriAbcpHoldMaxSt>
+                <titriAbcpHoldMin>30.00</titriAbcpHoldMin>
+                <titriAbcpHoldMinSt>0</titriAbcpHoldMinSt>
+                <titriAbs>true</titriAbs>
+                <titriAbsHoldMax>10.00</titriAbsHoldMax>
+                <titriAbsHoldMaxSt>0</titriAbsHoldMaxSt>
+                <titriAbsHoldMin>5.00</titriAbsHoldMin>
+                <titriAbsHoldMinSt>0</titriAbsHoldMinSt>
+                <titriCdo>true</titriCdo>
+                <titriCdoHoldMax>20.00</titriCdoHoldMax>
+                <titriCdoHoldMaxSt>0</titriCdoHoldMaxSt>
+                <titriCdoHoldMin>10.00</titriCdoHoldMin>
+                <titriCdoHoldMinSt>0</titriCdoHoldMinSt>
+                <titriHoldMax>90.00</titriHoldMax>
+                <titriHoldMaxSt>0</titriHoldMaxSt>
+                <titriHoldMin>20.00</titriHoldMin>
+                <titriHoldMinSt>0</titriHoldMinSt>
+                <titriInvestment>true</titriInvestment>
+                <titriItrax>true</titriItrax>
+                <titriItraxHoldMax>40.00</titriItraxHoldMax>
+                <titriItraxHoldMaxSt>0</titriItraxHoldMaxSt>
+                <titriItraxHoldMin>5.50</titriItraxHoldMin>
+                <titriItraxHoldMinSt>0</titriItraxHoldMinSt>
+            </assetTitri>
+            <assetOpcvm>
+                <allNatures>true</allNatures>
+                <alternativeHoldMax>80.00</alternativeHoldMax>
+                <alternativeHoldMaxSt>0</alternativeHoldMaxSt>
+                <alternativeManagement>true</alternativeManagement>
+                <compliance>true</compliance>
+                <complianceHoldMax>50.00</complianceHoldMax>
+                <complianceHoldMaxSt>0</complianceHoldMaxSt>
+                <emergentHoldMax>10.00</emergentHoldMax>
+                <emergentHoldMaxSt>0</emergentHoldMaxSt>
+                <emergentState>true</emergentState>
+                <isIsr>true</isIsr>
+                <opcvmAgf>true</opcvmAgf>
+                <opcvmCash>true</opcvmCash>
+                <opcvmCashMoneyMarket>true</opcvmCashMoneyMarket>
+                <opcvmCashMoneyMarketCt>true</opcvmCashMoneyMarketCt>
+                <opcvmHoldMax>90.00</opcvmHoldMax>
+                <opcvmHoldMaxSt>0</opcvmHoldMaxSt>
+                <opcvmHoldMin>10.00</opcvmHoldMin>
+                <opcvmHoldMinSt>0</opcvmHoldMinSt>
+                <opcvmInvestment>true</opcvmInvestment>
+                <otherCriteria>critere de selection</otherCriteria>
+                <otherCriteriaSt>0</otherCriteriaSt>
+                <foreignHoldMax>15.00</foreignHoldMax>
+                <foreignHoldMaxSt>0</foreignHoldMaxSt>
+                <foreignInvestment>true</foreignInvestment>
+                <trackerHoldMax>20.00</trackerHoldMax>
+                <trackerHoldMaxSt>0</trackerHoldMaxSt>
+                <trackerEtf>true</trackerEtf>
+                <otherInvestHoldMax>5.00</otherInvestHoldMax>
+                <otherInvestHoldMaxSt>0</otherInvestHoldMaxSt>
+                <otherInvestSt>0</otherInvestSt>
+                <specificRestrictionSt>0</specificRestrictionSt>
+                <twoPcentLeverage>true</twoPcentLeverage>
+                <uncomplianceOpcvmHolder>true</uncomplianceOpcvmHolder>
+                <uncomplianceHoldMax>25.00</uncomplianceHoldMax>
+                <uncomplianceHoldMaxSt>0</uncomplianceHoldMaxSt>
+                <uncomplianceSt>0</uncomplianceSt>
+                <realEstateInvestment>true</realEstateInvestment>
+                <realEstateInvHoldMax>90.00</realEstateInvHoldMax>
+                <realEstateInvHoldMaxSt>0</realEstateInvHoldMaxSt>
+                <commodityInvestment>true</commodityInvestment>
+                <commodityInvestHoldMax>10.15</commodityInvestHoldMax>
+                <commodityInvestHoldMaxSt>0</commodityInvestHoldMaxSt>
+                <assetInvestOpcvmSelList>
+                    <assetInvestOpcvmSel>
+                        <otherInvest>partiel</otherInvest>
+                    </assetInvestOpcvmSel>
+                </assetInvestOpcvmSelList>
+                <assetSpecRestOpcvmSelList>
+                    <assetSpecRestOpcvmSel>
+                        <specificRestriction>OPCVM investis plus spécifiquement sur le secteur aurifère</specificRestriction>
+                    </assetSpecRestOpcvmSel>
+                </assetSpecRestOpcvmSelList>
+                <assetUncompOpcvmSelList>
+                    <assetUncompOpcvmSel>
+                        <uncompliance>Aria</uncompliance>
+                    </assetUncompOpcvmSel>
+                </assetUncompOpcvmSelList>
+            </assetOpcvm>
+            <assetIntDerivative>
+                <derivativeHoldMax>100.00</derivativeHoldMax>
+                <derivativeHoldMaxSt>0</derivativeHoldMaxSt>
+                <derivativeHoldMin>20.00</derivativeHoldMin>
+                <derivativeHoldMinSt>0</derivativeHoldMinSt>
+                <derivativeInstrument>true</derivativeInstrument>
+                <derivativesInstrSt>0</derivativesInstrSt>
+                <derivativesOtherUseSt>0</derivativesOtherUseSt>
+                <derivativesStratSt>0</derivativesStratSt>
+                <forwardMarket>true</forwardMarket>
+                <leverageRatioMax>1.10</leverageRatioMax>
+                <leverageRatioMaxSt>0</leverageRatioMaxSt>
+                <organizedMarket>true</organizedMarket>
+                <regulatedMarket>true</regulatedMarket>
+                <specificRestriction>commmentaire sur restictions derives</specificRestriction>
+                <specificRestrictionSt>0</specificRestrictionSt>
+                <assetIntDerivInstrSelList>
+                    <assetIntDerivInstrSel>
+                        <instr>Change à terme</instr>
+                    </assetIntDerivInstrSel>
+                </assetIntDerivInstrSelList>
+                <assetIntDerivRiskSelList>
+                    <assetIntDerivRiskSel>
+                        <risk>Risque sur les actions de pays emergents</risk>
+                        <coverage>true</coverage>
+                        <exposition>true</exposition>
+                        <arbitrage>false</arbitrage>
+                    </assetIntDerivRiskSel>
+                </assetIntDerivRiskSelList>
+                <assetIntDerivStratSelList>
+                    <assetIntDerivStratSel>
+                        <strategy>Piloter le risque Taux</strategy>
+                    </assetIntDerivStratSel>
+                </assetIntDerivStratSelList>
+                <assetIntDerivUseSelList>
+                    <assetIntDerivUseSel>
+                        <useLabel>Spéculation</useLabel>
+                    </assetIntDerivUseSel>
+                </assetIntDerivUseSelList>
+            </assetIntDerivative>
+            <ratioDerogationTypeSelList>
+                <ratioDerogationTypeSel>
+                    <ratioDerogationType>Collectivités publiques territoriales</ratioDerogationType>
+                </ratioDerogationTypeSel>
+                <ratioDerogationTypeSel>
+                    <ratioDerogationType>Organismes internationaux à caractère public</ratioDerogationType>
+                </ratioDerogationTypeSel>
+            </ratioDerogationTypeSelList>
+            <segmentActorList>
+                <segmentActor>
+                    <actorRole>Gestionnaire Financier par délégation</actorRole>
+                    <isMandatory>true</isMandatory>
+                    <actorRoleSelect>true</actorRoleSelect>
+                    <actorDelegFinancialMng>
+                        <label>PIMCO</label>
+                        <legalForm>Société Anonyme</legalForm>
+                    </actorDelegFinancialMng>
+                </segmentActor>
+                <segmentActor>
+                    <actorRole>Sous Gestionnaire Financier par délégation</actorRole>
+                    <isMandatory>false</isMandatory>
+                    <actorRoleSelect>true</actorRoleSelect>
+                    <actorDelegFinancialMng>
+                        <label>AGFAM</label>
+                        <legalForm>Société Anonyme</legalForm>
+                    </actorDelegFinancialMng>
+                </segmentActor>
+            </segmentActorList>
+            <taxingStatusList>
+                <taxingStatus>
+                    <label>L&apos;OPCVM est admissible au Plan d&apos;Epargne en Actions (PEA)</label>
+                </taxingStatus>
+                <taxingStatus>
+                    <label>L&apos;OPCVM est admissible au Plan d&apos;Epargne Retraite (PER)</label>
+                </taxingStatus>
+            </taxingStatusList>
+            <strategyInvestList>
+                <strategyInvest>
+                    <strategyInvestAccessory>true</strategyInvestAccessory>
+                    <code>CCHG</code>
+                    <label>Couverture de change</label>
+                    <strategyInvestImportant>true</strategyInvestImportant>
+                    <strategyInvestLimited>false</strategyInvestLimited>
+                    <strategyInvestPrincipal>false</strategyInvestPrincipal>
+                    <strategyInvestPriority>1</strategyInvestPriority>
+                    <strategyInvestRecurring>false</strategyInvestRecurring>
+                    <strategyInvestSecondary>true</strategyInvestSecondary>
+                </strategyInvest>
+                <strategyInvest>
+                    <strategyInvestAccessory>false</strategyInvestAccessory>
+                    <code>DIVAC</code>
+                    <label>Diversification des actifs</label>
+                    <strategyInvestImportant>false</strategyInvestImportant>
+                    <strategyInvestLimited>true</strategyInvestLimited>
+                    <strategyInvestPrincipal>false</strategyInvestPrincipal>
+                    <strategyInvestPriority>2</strategyInvestPriority>
+                    <strategyInvestRecurring>true</strategyInvestRecurring>
+                    <strategyInvestSecondary>false</strategyInvestSecondary>
+                </strategyInvest>
+                <strategyInvest>
+                    <strategyInvestAccessory>false</strategyInvestAccessory>
+                    <code>SAV</code>
+                    <label>Sélection active de valeurs</label>
+                    <strategyInvestImportant>false</strategyInvestImportant>
+                    <strategyInvestLimited>false</strategyInvestLimited>
+                    <strategyInvestPrincipal>true</strategyInvestPrincipal>
+                    <strategyInvestPriority>3</strategyInvestPriority>
+                    <strategyInvestRecurring>true</strategyInvestRecurring>
+                    <strategyInvestSecondary>false</strategyInvestSecondary>
+                </strategyInvest>
+            </strategyInvestList>
+            <riskProfileList>
+                <riskProfile>
+                    <detailedNote>false</detailedNote>
+                    <expoMax>90.00</expoMax>
+                    <expoMaxSt>0</expoMaxSt>
+                    <expoMin>10.00</expoMin>
+                    <expoMinSt>0</expoMinSt>
+                    <majorRisk>false</majorRisk>
+                    <nominalFixincSensSt>1</nominalFixincSensSt>
+                    <priority>2</priority>
+                    <realFixincSensSt>1</realFixincSensSt>
+                    <riskCode>CRED</riskCode>
+                    <risk>Risque de crédit</risk>
+                    <simplifiedProspectus>false</simplifiedProspectus>
+                    <isFixincRisk>false</isFixincRisk>
+                </riskProfile>
+                <riskProfile>
+                    <detailedNote>true</detailedNote>
+                    <expoMax>110.00</expoMax>
+                    <expoMaxSt>0</expoMaxSt>
+                    <expoMin>100.00</expoMin>
+                    <expoMinSt>0</expoMinSt>
+                    <majorRisk>true</majorRisk>
+                    <nominalFixincSens>2</nominalFixincSens>
+                    <nominalFixincSensSt>0</nominalFixincSensSt>
+                    <priority>4</priority>
+                    <realFixincSens>7</realFixincSens>
+                    <realFixincSensSt>0</realFixincSensSt>
+                    <riskCode>SECTAU</riskCode>
+                    <risk>Risque sectoriel taux</risk>
+                    <simplifiedProspectus>true</simplifiedProspectus>
+                    <isFixincRisk>true</isFixincRisk>
+                </riskProfile>
+            </riskProfileList>
+            <benchmarkList>
+                <benchmark>
+                    <linkType>Prospectus AMF</linkType>
+                    <officialLegal>true</officialLegal>
+                    <linkMode>Spécifique Partie B</linkMode>
+                    <benchDate>1968-04-10 00:00:00.0</benchDate>
+                    <benchType>Indice Composite</benchType>
+                    <benchCode>B05-ITL</benchCode>
+                    <provider>FININFO</provider>
+                    <source>STDPOORS</source>
+                    <historicalStartDate>1968-01-01 00:00:00.0</historicalStartDate>
+                    <currency>LIRE</currency>
+                    <rebalancingFrequency>Fin de mois</rebalancingFrequency>
+                    <benchLabel>libelle du Bench B05-ITL</benchLabel>
+                    <beginDate>2000-01-01 00:00:00.0</beginDate>
+                    <benchmarkCompositeList>
+                        <benchmarkComposite>
+                            <indexCode>CAC40</indexCode>
+                            <indexLabel>libelle du CAC40</indexLabel>
+                            <indexWeight>40.000000000</indexWeight>
+                            <indexType>cours de cloture</indexType>
+                            <reinvestedCoupon>false</reinvestedCoupon>
+                        </benchmarkComposite>
+                        <benchmarkComposite>
+                            <indexCode>SB120</indexCode>
+                            <indexLabel>libelle du SB120</indexLabel>
+                            <indexWeight>60.000000000</indexWeight>
+                            <indexType>cours de cloture</indexType>
+                            <reinvestedCoupon>false</reinvestedCoupon>
+                        </benchmarkComposite>
+                    </benchmarkCompositeList>
+                </benchmark>
+                <benchmark>
+                    <linkType>Prospectus AMF</linkType>
+                    <officialLegal>true</officialLegal>
+                    <linkMode>Indicateur de référence</linkMode>
+                    <benchDate>1968-04-10 00:00:00.0</benchDate>
+                    <benchType>Indice de marché</benchType>
+                    <benchCode>B05-EUR</benchCode>
+                    <provider>FININFO</provider>
+                    <source>STDPOORS</source>
+                    <historicalStartDate>1968-04-07 00:00:00.0</historicalStartDate>
+                    <currency>EUROS</currency>
+                    <rebalancingFrequency>Fin de mois</rebalancingFrequency>
+                    <benchLabel>libelle du Bench B05-EUR</benchLabel>
+                    <beginDate>2000-01-01 00:00:00.0</beginDate>
+                    <benchmarkCompositeList>
+                        <benchmarkComposite>
+                            <indexCode>CAC40</indexCode>
+                            <indexLabel>libelle du CAC40</indexLabel>
+                            <indexWeight>100.000000000</indexWeight>
+                            <indexType>cours de cloture</indexType>
+                            <reinvestedCoupon>false</reinvestedCoupon>
+                        </benchmarkComposite>
+                    </benchmarkCompositeList>
+                </benchmark>
+            </benchmarkList>
+            <classifierList>
+                <classifier>
+                    <computedClassLabel>AGF REFERENCE 05 I</computedClassLabel>
+                    <webCustomerProfileSt>0</webCustomerProfileSt>
+                    <reportingModel>reporting model 1</reportingModel>
+                    <creationDateSt>0</creationDateSt>
+                    <code>05I</code>
+                    <masters>true</masters>
+                    <fictiveProduct>false</fictiveProduct>
+                    <ratingSpSt>0</ratingSpSt>
+                    <classTypeSt>0</classTypeSt>
+                    <subsMinAmount>160 000 ?</subsMinAmount>
+                    <subscribersTypeSt>0</subscribersTypeSt>
+                    <subscribersType>Entreprises et institutionnels</subscribersType>
+                    <statisticEditionDateSt>0</statisticEditionDateSt>
+                    <ratingSp>A</ratingSp>
+                    <ratingMoodys>Aa/MR1</ratingMoodys>
+                    <reportingModelType>reporting type 1</reportingModelType>
+                    <subsMinAmountSt>0</subsMinAmountSt>
+                    <reportingModelSt>0</reportingModelSt>
+                    <closeDateSt>0</closeDateSt>
+                    <classTypeCode>I</classTypeCode>
+                    <classTypeCodeSt>0</classTypeCodeSt>
+                    <classType>Institutionnel</classType>
+                    <divisionClass>10</divisionClass>
+                    <teCalculMode>perf Benchmark</teCalculMode>
+                    <statisticEditionDate>2007-02-01 00:00:00.0</statisticEditionDate>
+                    <concernedSubscribersSt>1</concernedSubscribersSt>
+                    <ratingMoodysSt>0</ratingMoodysSt>
+                    <marketingEndDateSt>0</marketingEndDateSt>
+                    <teCalculModeSt>0</teCalculModeSt>
+                    <marketingEndDate>2005-01-01 00:00:00.0</marketingEndDate>
+                    <firstSubsMinAmount>First 1 part</firstSubsMinAmount>
+                    <firstSubsMinAmountSt>0</firstSubsMinAmountSt>
+                    <divisionClassSt>0</divisionClassSt>
+                    <webCustomerNeedsSt>0</webCustomerNeedsSt>
+                    <marketingBeginDateSt>0</marketingBeginDateSt>
+                    <reportingModelTypeSt>0</reportingModelTypeSt>
+                    <customerDescriptionSt>1</customerDescriptionSt>
+                    <marketingBeginDate>2003-12-31 00:00:00.0</marketingBeginDate>
+                    <beginDate>2000-01-01</beginDate>
+                    <commission>
+                        <maxGainedRedemptComSt>0</maxGainedRedemptComSt>
+                        <maxGainedSubsComSt>0</maxGainedSubsComSt>
+                        <maxUnvestedRedempt>55.0000000</maxUnvestedRedempt>
+                        <movementBeneficiary>Bénéficiaire de commission 2</movementBeneficiary>
+                        <maxUnvestedSubsSt>0</maxUnvestedSubsSt>
+                        <surperfFrequency>Hebdomadaire</surperfFrequency>
+                        <movementBaseSt>0</movementBaseSt>
+                        <maxUnvestedRedemptSt>0</maxUnvestedRedemptSt>
+                        <maxGainedSubs>15.5500000</maxGainedSubs>
+                        <maxUnvestedSubsCom>Commentaite sul com max de souscription non acquise</maxUnvestedSubsCom>
+                        <movementBase>Assiette de commission 2</movementBase>
+                        <maxGainedSubsSt>0</maxGainedSubsSt>
+                        <maxGainedRedempt>77.8800000</maxGainedRedempt>
+                        <movementAmount>5600.32</movementAmount>
+                        <maxGainedRedemptSt>0</maxGainedRedemptSt>
+                        <exonerationCase>Souscriptions et rachats par les FCP nourriciers</exonerationCase>
+                        <surperfMax>12.0000000</surperfMax>
+                        <surperfCalculModel>Modèle C</surperfCalculModel>
+                        <surperfCalculModelSt>0</surperfCalculModelSt>
+                        <drawingRedemptOption>false</drawingRedemptOption>
+                        <rateIndexOption>false</rateIndexOption>
+                        <baseDrawing>provision</baseDrawing>
+                        <baseDrawingSt>0</baseDrawingSt>
+                        <baseRate>11.1100000</baseRate>
+                        <baseRateSt>0</baseRateSt>
+                        <movementAmountSt>0</movementAmountSt>
+                        <movementBeneficiarySt>0</movementBeneficiarySt>
+                        <surperfMaxSt>0</surperfMaxSt>
+                        <surperfFrequencySt>0</surperfFrequencySt>
+                        <maxUnvestedRedemptComSt>0</maxUnvestedRedemptComSt>
+                        <maxUnvestedSubsComSt>0</maxUnvestedSubsComSt>
+                        <maxUnvestedSubs>25.0000000</maxUnvestedSubs>
+                        <surperfThresholdSt>0</surperfThresholdSt>
+                        <maxGainedSubsCom>Commentaire sur la commission maximale de souscription acquise</maxGainedSubsCom>
+                        <surperfBpSt>0</surperfBpSt>
+                        <maxGainedRedemptCom>test</maxGainedRedemptCom>
+                        <surperfBp>30</surperfBp>
+                        <exonerationCaseSt>0</exonerationCaseSt>
+                        <maxUnvestedRedemptCom>Commentaire sur la commission maximale de rachat non acquise</maxUnvestedRedemptCom>
+                        <surperfThreshold>performance supérieure à 6%</surperfThreshold>
+                        <surperfBenchmark>true</surperfBenchmark>
+                    </commission>
+                    <directFeesList>
+                        <directFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Commission de surperformance</fees>
+                            <maxTtcRate>55.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </directFees>
+                        <directFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Frais de fonctionnement et de gestion directs</fees>
+                            <maxTtcRate>20.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </directFees>
+                        <directFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Frais de gestion administrative</fees>
+                            <maxTtcRate>45.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </directFees>
+                        <directFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Frais de gestion comptable</fees>
+                            <maxTtcRate>30.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </directFees>
+                        <directFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Total sur les frais de gestion directs</fees>
+                            <maxTtcRate>65.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </directFees>
+                    </directFeesList>
+                    <indirectFeesList>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Droits d&apos;entrée indirects</fees>
+                            <maxTtcRate>65.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Droits de sortie indirects</fees>
+                            <maxTtcRate>42.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Frais de gestion indirects</fees>
+                            <maxTtcRate>66.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Rétrocessions négociées par la société de gestion de l&apos;OPCVM investisseur</fees>
+                            <maxTtcRate>32.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Total sur les coûts liés à l&apos;achat d&apos;OPCVM et fonds d&apos;investissement</fees>
+                            <maxTtcRate>69.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Total sur les frais de gestion indirects</fees>
+                            <maxTtcRate>31.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                    </indirectFeesList>
+                    <otherFeesList>
+                        <otherFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <maxFeesScale>BNP</maxFeesScale>
+                            <maxFeesScaleSt>0</maxFeesScaleSt>
+                            <fees>Commission de mouvement</fees>
+                            <maxTtcRate>45.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </otherFees>
+                        <otherFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <maxFeesScaleSt>-1</maxFeesScaleSt>
+                            <fees>Total sur les frais de gestion directs et indirects cumulés</fees>
+                            <maxTtcRate>46.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </otherFees>
+                        <otherFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <maxFeesScaleSt>-1</maxFeesScaleSt>
+                            <fees>Total des frais sur encours</fees>
+                            <maxTtcRate>19.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </otherFees>
+                        <otherFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <maxFeesScaleSt>-1</maxFeesScaleSt>
+                            <fees>Total sur les frais</fees>
+                            <maxTtcRate>48.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </otherFees>
+                    </otherFeesList>
+                    <marketingCountryDateList>
+                        <marketingCountryDate>
+                            <country>Belgique</country>
+                            <marketingStartingDate>2001-02-01 00:00:00.0</marketingStartingDate>
+                        </marketingCountryDate>
+                    </marketingCountryDateList>
+                    <eqtyPortFolioRateList>
+                        <eqtyPortFolioRate>
+                            <year>2004</year>
+                            <transactionFeesRate>17.5295000</transactionFeesRate>
+                            <transactionFeesRateSt>0</transactionFeesRateSt>
+                            <turnoverRate>15.0090000</turnoverRate>
+                            <turnoverRateSt>0</turnoverRateSt>
+                        </eqtyPortFolioRate>
+                        <eqtyPortFolioRate>
+                            <year>2005</year>
+                            <transactionFeesRateSt>1</transactionFeesRateSt>
+                            <turnoverRate>0.5890000</turnoverRate>
+                            <turnoverRateSt>0</turnoverRateSt>
+                        </eqtyPortFolioRate>
+                    </eqtyPortFolioRateList>
+                    <partList>
+                        <part>
+                            <computedPartLabel>AGF REFERENCE 05 I CetD</computedPartLabel>
+                            <creationDateSt>0</creationDateSt>
+                            <code>05I_CetD</code>
+                            <distributionFrequencySt>0</distributionFrequencySt>
+                            <capitalisationFrequencySt>0</capitalisationFrequencySt>
+                            <capitalisationFrequency>annuelle</capitalisationFrequency>
+                            <cDCode>CetD</cDCode>
+                            <cD>Capitalisant et Distribuant</cD>
+                            <distributionFrequency>annuelle</distributionFrequency>
+                            <closeDateSt>0</closeDateSt>
+                            <endDate>9999-12-31 00:00:00.0</endDate>
+                            <creationDate>2000-01-01 00:00:00.0</creationDate>
+                            <beginDate>2000-01-01</beginDate>
+                            <branchList>
+                                <branch>
+                                    <computedBranchLabel>AGF REFERENCE 05 I CetD EUR</computedBranchLabel>
+                                    <creationDateSt>0</creationDateSt>
+                                    <vlCopySundayToFriday>false</vlCopySundayToFriday>
+                                    <code>05I_CetD_EUR</code>
+                                    <isinCodeSt>0</isinCodeSt>
+                                    <referenceValuation>false</referenceValuation>
+                                    <historicalStartDate>2004-01-01 00:00:00.0</historicalStartDate>
+                                    <currency>EUROS</currency>
+                                    <historicalStartDateSt>0</historicalStartDateSt>
+                                    <firstValuationDate>2003-01-01 00:00:00.0</firstValuationDate>
+                                    <initialAbondementSt>0</initialAbondementSt>
+                                    <firstValuationDateSt>0</firstValuationDateSt>
+                                    <webSiteEnglishPublic>true</webSiteEnglishPublic>
+                                    <closeDate>9999-12-31 00:00:00.0</closeDate>
+                                    <originValuationSt>0</originValuationSt>
+                                    <sicovamCodeSt>0</sicovamCodeSt>
+                                    <webSiteFrenchPublic>false</webSiteFrenchPublic>
+                                    <isinCode>FR444444BBB</isinCode>
+                                    <closeDateSt>0</closeDateSt>
+                                    <endDate>9999-12-31 00:00:00.0</endDate>
+                                    <creationDate>2000-01-01 00:00:00.0</creationDate>
+                                    <beginDate>2000-01-01</beginDate>
+                                    <securityEventList>
+                                        <securityEvent>
+                                            <exchangeRate>1000.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-06 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>10999.00000000000000</exchangeRate>
+                                            <securityEventDate>2005-07-01 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>45230.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-10 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                    </securityEventList>
+                                </branch>
+                            </branchList>
+                        </part>
+                    </partList>
+                </classifier>
+                <classifier>
+                    <computedClassLabel>AGF REFERENCE 05 R</computedClassLabel>
+                    <webCustomerProfileSt>0</webCustomerProfileSt>
+                    <reportingModel>reporting model 2</reportingModel>
+                    <creationDateSt>0</creationDateSt>
+                    <code>05R</code>
+                    <masters>true</masters>
+                    <fictiveProduct>false</fictiveProduct>
+                    <customerDescription>description du client</customerDescription>
+                    <ratingSpSt>0</ratingSpSt>
+                    <classTypeSt>0</classTypeSt>
+                    <concernedSubscribers>AGIRC et ARRCO</concernedSubscribers>
+                    <subsMinAmount>1 part</subsMinAmount>
+                    <subscribersTypeSt>0</subscribersTypeSt>
+                    <subscribersType>Dédié (Réservé à 20 porteurs au plus)</subscribersType>
+                    <statisticEditionDateSt>0</statisticEditionDateSt>
+                    <ratingSp>B</ratingSp>
+                    <ratingMoodys>Bb/MR1</ratingMoodys>
+                    <reportingModelType>reporting type 2</reportingModelType>
+                    <subsMinAmountSt>0</subsMinAmountSt>
+                    <reportingModelSt>0</reportingModelSt>
+                    <closeDateSt>0</closeDateSt>
+                    <classTypeCode>R</classTypeCode>
+                    <classTypeCodeSt>0</classTypeCodeSt>
+                    <classType>Retail</classType>
+                    <divisionClass>1000</divisionClass>
+                    <teCalculMode>perf benchmark 2</teCalculMode>
+                    <statisticEditionDate>2007-01-01 00:00:00.0</statisticEditionDate>
+                    <concernedSubscribersSt>1</concernedSubscribersSt>
+                    <ratingMoodysSt>0</ratingMoodysSt>
+                    <marketingEndDateSt>0</marketingEndDateSt>
+                    <teCalculModeSt>0</teCalculModeSt>
+                    <marketingEndDate>2005-01-01 00:00:00.0</marketingEndDate>
+                    <firstSubsMinAmount>First 1 part</firstSubsMinAmount>
+                    <firstSubsMinAmountSt>0</firstSubsMinAmountSt>
+                    <divisionClassSt>0</divisionClassSt>
+                    <webCustomerNeedsSt>0</webCustomerNeedsSt>
+                    <marketingBeginDateSt>0</marketingBeginDateSt>
+                    <reportingModelTypeSt>0</reportingModelTypeSt>
+                    <customerDescriptionSt>0</customerDescriptionSt>
+                    <marketingBeginDate>2003-12-31 00:00:00.0</marketingBeginDate>
+                    <beginDate>2000-01-01</beginDate>
+                    <commission>
+                        <maxGainedRedemptComSt>0</maxGainedRedemptComSt>
+                        <maxGainedSubsComSt>0</maxGainedSubsComSt>
+                        <movementBeneficiary>Bénéficiaire de commission 1</movementBeneficiary>
+                        <maxUnvestedSubsSt>0</maxUnvestedSubsSt>
+                        <surperfFrequency>Hebdomadaire</surperfFrequency>
+                        <movementBaseSt>1</movementBaseSt>
+                        <maxUnvestedRedemptSt>1</maxUnvestedRedemptSt>
+                        <maxGainedSubs>31.5500000</maxGainedSubs>
+                        <maxGainedSubsSt>0</maxGainedSubsSt>
+                        <maxGainedRedempt>21.8800000</maxGainedRedempt>
+                        <maxGainedRedemptSt>0</maxGainedRedemptSt>
+                        <exonerationCase>Souscriptions et rachats par les FCP nourriciers</exonerationCase>
+                        <surperfMax>15.0000000</surperfMax>
+                        <surperfCalculModel>Modèle C</surperfCalculModel>
+                        <surperfCalculModelSt>0</surperfCalculModelSt>
+                        <drawingRedemptOption>false</drawingRedemptOption>
+                        <rateIndexOption>false</rateIndexOption>
+                        <baseDrawing>provision</baseDrawing>
+                        <baseDrawingSt>0</baseDrawingSt>
+                        <baseRate>11.1100000</baseRate>
+                        <baseRateSt>0</baseRateSt>
+                        <movementAmountSt>1</movementAmountSt>
+                        <movementBeneficiarySt>0</movementBeneficiarySt>
+                        <surperfMaxSt>0</surperfMaxSt>
+                        <surperfFrequencySt>0</surperfFrequencySt>
+                        <maxUnvestedRedemptComSt>0</maxUnvestedRedemptComSt>
+                        <maxUnvestedSubsComSt>1</maxUnvestedSubsComSt>
+                        <maxUnvestedSubs>12.9900000</maxUnvestedSubs>
+                        <surperfThresholdSt>0</surperfThresholdSt>
+                        <maxGainedSubsCom>Commentaire sur la commission maximale de souscription acquise</maxGainedSubsCom>
+                        <surperfBpSt>1</surperfBpSt>
+                        <maxGainedRedemptCom>pas de redemption</maxGainedRedemptCom>
+                        <exonerationCaseSt>0</exonerationCaseSt>
+                        <maxUnvestedRedemptCom>TEST sur les commentaires</maxUnvestedRedemptCom>
+                        <surperfBenchmark>true</surperfBenchmark>
+                    </commission>
+                    <directFeesList>
+                        <directFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Commission de surperformance</fees>
+                            <baseSt>0</baseSt>
+                        </directFees>
+                        <directFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Frais de fonctionnement et de gestion directs</fees>
+                            <maxTtcRate>0.5000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </directFees>
+                        <directFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Frais de gestion comptable</fees>
+                            <baseSt>0</baseSt>
+                        </directFees>
+                        <directFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Total sur les frais de gestion directs</fees>
+                            <baseSt>0</baseSt>
+                        </directFees>
+                    </directFeesList>
+                    <indirectFeesList>
+                        <indirectFees>
+                            <maxTtcRateSt>1</maxTtcRateSt>
+                            <fees>Droits d&apos;entrée indirects</fees>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Droits de sortie indirects</fees>
+                            <maxTtcRate>1.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Frais de gestion indirects</fees>
+                            <maxTtcRate>1.5000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Rétrocessions négociées par la société de gestion de l&apos;OPCVM investisseur</fees>
+                            <maxTtcRate>50.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Total sur les coûts liés à l&apos;achat d&apos;OPCVM et fonds d&apos;investissement</fees>
+                            <maxTtcRate>15.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                        <indirectFees>
+                            <maxTtcRateSt>0</maxTtcRateSt>
+                            <fees>Total sur les frais de gestion indirects</fees>
+                            <maxTtcRate>10.0000000</maxTtcRate>
+                            <baseSt>0</baseSt>
+                        </indirectFees>
+                    </indirectFeesList>
+                    <marketingCountryDateList>
+                        <marketingCountryDate>
+                            <country>Allemagne</country>
+                            <marketingStartingDate>2003-01-01 00:00:00.0</marketingStartingDate>
+                        </marketingCountryDate>
+                        <marketingCountryDate>
+                            <country>Belgique</country>
+                            <marketingStartingDate>2002-01-20 00:00:00.0</marketingStartingDate>
+                        </marketingCountryDate>
+                        <marketingCountryDate>
+                            <country>France</country>
+                            <marketingStartingDate>2004-12-31 00:00:00.0</marketingStartingDate>
+                        </marketingCountryDate>
+                    </marketingCountryDateList>
+                    <eqtyPortFolioRateList>
+                        <eqtyPortFolioRate>
+                            <year>2006</year>
+                            <transactionFeesRateSt>1</transactionFeesRateSt>
+                            <turnoverRate>0.5890000</turnoverRate>
+                            <turnoverRateSt>0</turnoverRateSt>
+                        </eqtyPortFolioRate>
+                        <eqtyPortFolioRate>
+                            <year>2007</year>
+                            <transactionFeesRate>7.5895000</transactionFeesRate>
+                            <transactionFeesRateSt>0</transactionFeesRateSt>
+                            <turnoverRate>5.8090000</turnoverRate>
+                            <turnoverRateSt>0</turnoverRateSt>
+                        </eqtyPortFolioRate>
+                    </eqtyPortFolioRateList>
+                    <partList>
+                        <part>
+                            <computedPartLabel>AGF REFERENCE 05 R C</computedPartLabel>
+                            <creationDateSt>0</creationDateSt>
+                            <closeDate>9999-12-31 00:00:00.0</closeDate>
+                            <code>05R_C</code>
+                            <distributionFrequencySt>-1</distributionFrequencySt>
+                            <capitalisationFrequencySt>0</capitalisationFrequencySt>
+                            <capitalisationFrequency>semestrielle</capitalisationFrequency>
+                            <cDCode>C</cDCode>
+                            <cD>Capitalisant</cD>
+                            <closeDateSt>0</closeDateSt>
+                            <endDate>9999-12-31 00:00:00.0</endDate>
+                            <creationDate>2000-01-01 00:00:00.0</creationDate>
+                            <beginDate>2000-01-01</beginDate>
+                            <branchList>
+                                <branch>
+                                    <computedBranchLabel>AGF REFERENCE 05 R C EUR</computedBranchLabel>
+                                    <creationDateSt>0</creationDateSt>
+                                    <vlCopySundayToFriday>false</vlCopySundayToFriday>
+                                    <code>05R_C_EUR</code>
+                                    <isinCodeSt>0</isinCodeSt>
+                                    <referenceValuation>false</referenceValuation>
+                                    <historicalStartDate>2000-12-01 00:00:00.0</historicalStartDate>
+                                    <currency>EUROS</currency>
+                                    <historicalStartDateSt>0</historicalStartDateSt>
+                                    <firstValuationDate>2001-01-01 00:00:00.0</firstValuationDate>
+                                    <initialAbondementSt>0</initialAbondementSt>
+                                    <firstValuationDateSt>0</firstValuationDateSt>
+                                    <webSiteEnglishPublic>true</webSiteEnglishPublic>
+                                    <closeDate>9999-12-31 00:00:00.0</closeDate>
+                                    <originValuation>12000.230</originValuation>
+                                    <originValuationSt>0</originValuationSt>
+                                    <initialAbondement>45200.000</initialAbondement>
+                                    <sicovamCodeSt>0</sicovamCodeSt>
+                                    <webSiteFrenchPublic>false</webSiteFrenchPublic>
+                                    <sicovamCode>FR111111</sicovamCode>
+                                    <isinCode>FR111111AAA</isinCode>
+                                    <closeDateSt>0</closeDateSt>
+                                    <endDate>9999-12-31 00:00:00.0</endDate>
+                                    <creationDate>2000-01-01 00:00:00.0</creationDate>
+                                    <beginDate>2000-01-01</beginDate>
+                                    <securityEventList>
+                                        <securityEvent>
+                                            <exchangeRate>1000.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-06 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>10999.00000000000000</exchangeRate>
+                                            <securityEventDate>2005-07-01 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>45230.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-10 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                    </securityEventList>
+                                </branch>
+                                <branch>
+                                    <computedBranchLabel>AGF REFERENCE 05 R C USD</computedBranchLabel>
+                                    <creationDateSt>0</creationDateSt>
+                                    <vlCopySundayToFriday>true</vlCopySundayToFriday>
+                                    <code>05R_C_USD</code>
+                                    <isinCodeSt>0</isinCodeSt>
+                                    <referenceValuation>false</referenceValuation>
+                                    <currency>DOLLAR</currency>
+                                    <historicalStartDateSt>0</historicalStartDateSt>
+                                    <firstValuationDate>2004-01-01 00:00:00.0</firstValuationDate>
+                                    <initialAbondementSt>1</initialAbondementSt>
+                                    <firstValuationDateSt>0</firstValuationDateSt>
+                                    <webSiteEnglishPublic>true</webSiteEnglishPublic>
+                                    <closeDate>9999-12-31 00:00:00.0</closeDate>
+                                    <originValuationSt>1</originValuationSt>
+                                    <sicovamCodeSt>1</sicovamCodeSt>
+                                    <webSiteFrenchPublic>false</webSiteFrenchPublic>
+                                    <isinCode>FR111111BBB</isinCode>
+                                    <closeDateSt>0</closeDateSt>
+                                    <endDate>9999-12-31 00:00:00.0</endDate>
+                                    <creationDate>2000-01-01 00:00:00.0</creationDate>
+                                    <beginDate>2000-01-01</beginDate>
+                                    <securityEventList>
+                                        <securityEvent>
+                                            <exchangeRate>1000.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-06 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>10999.00000000000000</exchangeRate>
+                                            <securityEventDate>2005-07-01 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>45230.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-10 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                    </securityEventList>
+                                </branch>
+                            </branchList>
+                        </part>
+                        <part>
+                            <computedPartLabel>AGF REFERENCE 05 R D</computedPartLabel>
+                            <creationDateSt>0</creationDateSt>
+                            <closeDate>9999-12-31 00:00:00.0</closeDate>
+                            <code>05R_D</code>
+                            <distributionFrequencySt>0</distributionFrequencySt>
+                            <capitalisationFrequencySt>-1</capitalisationFrequencySt>
+                            <cDCode>D</cDCode>
+                            <cD>Distribuant</cD>
+                            <distributionFrequency>mensuelle</distributionFrequency>
+                            <closeDateSt>0</closeDateSt>
+                            <endDate>9999-12-31 00:00:00.0</endDate>
+                            <creationDate>2000-01-01 00:00:00.0</creationDate>
+                            <beginDate>2000-01-01</beginDate>
+                            <branchList>
+                                <branch>
+                                    <computedBranchLabel>AGF REFERENCE 05 R D EUR</computedBranchLabel>
+                                    <creationDateSt>0</creationDateSt>
+                                    <vlCopySundayToFriday>false</vlCopySundayToFriday>
+                                    <code>05R_D_EUR</code>
+                                    <isinCodeSt>0</isinCodeSt>
+                                    <referenceValuation>false</referenceValuation>
+                                    <historicalStartDate>2000-06-01 00:00:00.0</historicalStartDate>
+                                    <currency>EUROS</currency>
+                                    <historicalStartDateSt>0</historicalStartDateSt>
+                                    <firstValuationDate>2000-04-01 00:00:00.0</firstValuationDate>
+                                    <initialAbondementSt>0</initialAbondementSt>
+                                    <firstValuationDateSt>0</firstValuationDateSt>
+                                    <webSiteEnglishPublic>true</webSiteEnglishPublic>
+                                    <closeDate>9999-12-31 00:00:00.0</closeDate>
+                                    <originValuationSt>0</originValuationSt>
+                                    <initialAbondement>451354.000</initialAbondement>
+                                    <sicovamCodeSt>0</sicovamCodeSt>
+                                    <webSiteFrenchPublic>false</webSiteFrenchPublic>
+                                    <isinCode>FR222222CCC</isinCode>
+                                    <closeDateSt>0</closeDateSt>
+                                    <endDate>9999-12-31 00:00:00.0</endDate>
+                                    <creationDate>2000-01-01 00:00:00.0</creationDate>
+                                    <beginDate>2000-01-01</beginDate>
+                                    <securityEventList>
+                                        <securityEvent>
+                                            <exchangeRate>1000.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-06 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>10999.00000000000000</exchangeRate>
+                                            <securityEventDate>2005-07-01 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>45230.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-10 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                    </securityEventList>
+                                </branch>
+                                <branch>
+                                    <computedBranchLabel>AGF REFERENCE 05 R D USD</computedBranchLabel>
+                                    <creationDateSt>0</creationDateSt>
+                                    <vlCopySundayToFriday>false</vlCopySundayToFriday>
+                                    <code>05R_D_USD</code>
+                                    <isinCodeSt>0</isinCodeSt>
+                                    <referenceValuation>false</referenceValuation>
+                                    <historicalStartDate>2001-06-01 00:00:00.0</historicalStartDate>
+                                    <currency>DOLLAR</currency>
+                                    <historicalStartDateSt>0</historicalStartDateSt>
+                                    <firstValuationDate>2002-06-01 00:00:00.0</firstValuationDate>
+                                    <initialAbondementSt>0</initialAbondementSt>
+                                    <firstValuationDateSt>0</firstValuationDateSt>
+                                    <webSiteEnglishPublic>true</webSiteEnglishPublic>
+                                    <closeDate>9999-12-31 00:00:00.0</closeDate>
+                                    <originValuationSt>0</originValuationSt>
+                                    <sicovamCodeSt>0</sicovamCodeSt>
+                                    <webSiteFrenchPublic>false</webSiteFrenchPublic>
+                                    <isinCode>FR333333DDD</isinCode>
+                                    <closeDateSt>0</closeDateSt>
+                                    <endDate>9999-12-31 00:00:00.0</endDate>
+                                    <creationDate>2000-01-01 00:00:00.0</creationDate>
+                                    <beginDate>2000-01-01</beginDate>
+                                    <securityEventList>
+                                        <securityEvent>
+                                            <exchangeRate>1000.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-06 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>10999.00000000000000</exchangeRate>
+                                            <securityEventDate>2005-07-01 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>45230.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-10 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                    </securityEventList>
+                                </branch>
+                            </branchList>
+                        </part>
+                    </partList>
+                </classifier>
+            </classifierList>
+        </segment>
+        <segment>
+            <code>06</code>
+            <label>AGF REFERENCE 06</label>
+            <labelSt>0</labelSt>
+            <computedSegmentLabel>AGF REFERENCE 06</computedSegmentLabel>
+            <mandateEndDateSt>1</mandateEndDateSt>
+            <creationDateSt>0</creationDateSt>
+            <classifReporting>Lettre Mensuelle</classifReporting>
+            <classifMif>Monétaire dynamique</classifMif>
+            <classifMicropalSt>0</classifMicropalSt>
+            <guarantee>Banque Off ligne</guarantee>
+            <classifReportingSt>0</classifReportingSt>
+            <classifAmfSt>0</classifAmfSt>
+            <opcvmOfOpcvm>Jusqu&apos;à 100 % de l&apos;actif net</opcvmOfOpcvm>
+            <webInvClassAssetSt>0</webInvClassAssetSt>
+            <classifMicropal>AM Marches Emergents</classifMicropal>
+            <externalValuation>true</externalValuation>
+            <managementPhiloSt>1</managementPhiloSt>
+            <classifAmf>Actions Internationales</classifAmf>
+            <webInvGeoZone>Marchés émergents</webInvGeoZone>
+            <guaranteeCommentSt>1</guaranteeCommentSt>
+            <feederOpcvm>false</feederOpcvm>
+            <classifMifSt>0</classifMifSt>
+            <investmentDuration>15 ans</investmentDuration>
+            <fundsDepositDateSt>1</fundsDepositDateSt>
+            <absorptionDateSt>1</absorptionDateSt>
+            <managementTypeSt>1</managementTypeSt>
+            <closeDateSt>1</closeDateSt>
+            <endDate>9999-12-31 00:00:00.0</endDate>
+            <investmentDurationSt>0</investmentDurationSt>
+            <creationDate>2000-01-01 00:00:00.0</creationDate>
+            <webInvGeoZoneSt>0</webInvGeoZoneSt>
+            <beginDate>2000-01-01</beginDate>
+            <opcvmOfOpcvmSt>0</opcvmOfOpcvmSt>
+            <guaranteeSt>0</guaranteeSt>
+            <eqtyExposureDeriv>false</eqtyExposureDeriv>
+            <assetFixinc>
+                <fixIncInvestment>false</fixIncInvestment>
+                <fixIncHoldMinSt>0</fixIncHoldMinSt>
+                <fixIncHoldMaxSt>0</fixIncHoldMaxSt>
+                <fixIncExposureMinSt>0</fixIncExposureMinSt>
+                <fixIncExposureMaxSt>0</fixIncExposureMaxSt>
+                <vectorSt>0</vectorSt>
+                <directVectorHoldMaxSt>0</directVectorHoldMaxSt>
+                <isrSt>0</isrSt>
+                <privateDebtSt>0</privateDebtSt>
+                <publicDebtSt>0</publicDebtSt>
+                <shortSpCreditAverageSt>0</shortSpCreditAverageSt>
+                <longSpCreditAverageSt>0</longSpCreditAverageSt>
+                <shortSpCreditLowerSt>0</shortSpCreditLowerSt>
+                <longSpCreditLowerSt>0</longSpCreditLowerSt>
+                <infSpBbbMinusHoldSt>0</infSpBbbMinusHoldSt>
+                <sensibilityRangeSt>0</sensibilityRangeSt>
+                <currencySt>0</currencySt>
+                <riskChangeExposure>false</riskChangeExposure>
+                <riskChangeExposureMaxSt>0</riskChangeExposureMaxSt>
+                <riskChangeResidualSt>0</riskChangeResidualSt>
+                <averageDurationSt>0</averageDurationSt>
+                <lowerDurationSt>0</lowerDurationSt>
+                <upperDurationSt>0</upperDurationSt>
+                <specifRestriction>false</specifRestriction>
+                <specificInstrument>false</specificInstrument>
+                <fixincInstrSt>0</fixincInstrSt>
+                <fixincSpecificRestrictSt>0</fixincSpecificRestrictSt>
+                <fixincZonegeoExclSt>0</fixincZonegeoExclSt>
+            </assetFixinc>
+            <assetDerivative>
+                <forwardMarket>false</forwardMarket>
+                <derivativeHoldMinSt>0</derivativeHoldMinSt>
+                <derivativeHoldMaxSt>0</derivativeHoldMaxSt>
+                <derivativesStratSt>0</derivativesStratSt>
+                <regulatedMarket>false</regulatedMarket>
+                <derivativesInstrSt>0</derivativesInstrSt>
+                <derivativeInstrument>false</derivativeInstrument>
+                <derivativesOtherUseSt>0</derivativesOtherUseSt>
+                <organizedMarket>false</organizedMarket>
+                <specificRestrictionSt>0</specificRestrictionSt>
+                <leverageRatioMaxSt>0</leverageRatioMaxSt>
+            </assetDerivative>
+            <accountingInfo>
+                <couponAccountingMethodSt>0</couponAccountingMethodSt>
+                <tradeAccountingMethodSt>0</tradeAccountingMethodSt>
+            </accountingInfo>
+            <businessInfo>
+                <accruedInterest>false</accruedInterest>
+                <baseValuationPriceSt>0</baseValuationPriceSt>
+                <centralPurchaseDaySt>0</centralPurchaseDaySt>
+                <centralPurchaseTimeSt>0</centralPurchaseTimeSt>
+                <executeValuationSt>0</executeValuationSt>
+                <extraValuation>false</extraValuation>
+                <extraValuationDescriptSt>0</extraValuationDescriptSt>
+                <liquidationDaySt>0</liquidationDaySt>
+                <replaceValConditionSt>0</replaceValConditionSt>
+                <replaceValuationSt>0</replaceValuationSt>
+                <subscribtionConditionSt>0</subscribtionConditionSt>
+                <valFrequencySt>0</valFrequencySt>
+                <valuationDaySt>0</valuationDaySt>
+                <valuationMarketSt>0</valuationMarketSt>
+                <valuationPlaceSt>0</valuationPlaceSt>
+                <pubModalVlSt>0</pubModalVlSt>
+            </businessInfo>
+            <investmentRule>
+                <derExpEvalMethDetailSt>0</derExpEvalMethDetailSt>
+                <derivativeExpoEvalMethSt>0</derivativeExpoEvalMethSt>
+                <ratioDerogationTypeSt>0</ratioDerogationTypeSt>
+                <varThresholdSt>0</varThresholdSt>
+            </investmentRule>
+            <taxationInfo>
+                <fixIncomeEqtyHoldMaxSt>0</fixIncomeEqtyHoldMaxSt>
+                <fixIncomeEqtyPositionSt>0</fixIncomeEqtyPositionSt>
+                <savingPositionInSt>0</savingPositionInSt>
+                <taxingStatusSt>0</taxingStatusSt>
+            </taxationInfo>
+            <managementObjective>
+                <benchmarkGap>TE inf à 2 ou inférieur à 10% de la volatilité de l&apos;indice</benchmarkGap>
+                <benchmarkGapSt>0</benchmarkGapSt>
+                <horizonManagement>true</horizonManagement>
+                <managFeesDeduction>false</managFeesDeduction>
+                <managFeesDecreased>false</managFeesDecreased>
+                <managObjective>objectif de gestion classique avec indicateur de référence</managObjective>
+                <managObjectiveSt>0</managObjectiveSt>
+                <managObjectiveDesc></managObjectiveDesc>
+                <managObjectiveDescSt>0</managObjectiveDescSt>
+                <opcvmTermSt>1</opcvmTermSt>
+                <performanceLevel>supérieur</performanceLevel>
+                <performanceLevelSt>0</performanceLevelSt>
+                <recommendInvestHorizon>false</recommendInvestHorizon>
+                <referenceMarkets>Marché de taux gouvernementaux internationaux représentés par l&apos;indice JPM europe non couvert de change</referenceMarkets>
+                <referenceMarketsSt>0</referenceMarketsSt>
+                <surperfObjective>L&apos;objectif de superformance</surperfObjective>
+                <surperfObjectiveSt>0</surperfObjectiveSt>
+            </managementObjective>
+            <assetEquity>
+                <directVectorHoldMaxSt>0</directVectorHoldMaxSt>
+                <eqtyExposureMaxSt>0</eqtyExposureMaxSt>
+                <eqtyExposureMinSt>0</eqtyExposureMinSt>
+                <eqtyHoldMaxSt>0</eqtyHoldMaxSt>
+                <eqtyHoldMinSt>0</eqtyHoldMinSt>
+                <eqtyInvestSectorExclusive>false</eqtyInvestSectorExclusive>
+                <eqtyInvestment>false</eqtyInvestment>
+                <eqtySectorExclSt>0</eqtySectorExclSt>
+                <eqtySectorSelectSt>0</eqtySectorSelectSt>
+                <eqtySpecificRestrictionSt>0</eqtySpecificRestrictionSt>
+                <eqtyZonegeoExclSt>0</eqtyZonegeoExclSt>
+                <isrSt>0</isrSt>
+                <largeCaps>false</largeCaps>
+                <largeCapsHoldMaxSt>0</largeCapsHoldMaxSt>
+                <largeCapsHoldMinSt>0</largeCapsHoldMinSt>
+                <microCaps>false</microCaps>
+                <microCapsHoldMaxSt>0</microCapsHoldMaxSt>
+                <microCapsHoldMinSt>0</microCapsHoldMinSt>
+                <midCaps>false</midCaps>
+                <midCapsHoldMaxSt>0</midCapsHoldMaxSt>
+                <midCapsHoldMinSt>0</midCapsHoldMinSt>
+                <riskChangeExposure>false</riskChangeExposure>
+                <riskChangeExposureMaxSt>0</riskChangeExposureMaxSt>
+                <smallCaps>false</smallCaps>
+                <smallCapsHoldMaxSt>0</smallCapsHoldMaxSt>
+                <smallCapsHoldMinSt>0</smallCapsHoldMinSt>
+                <styleSt>0</styleSt>
+                <unlisted>false</unlisted>
+                <unlistedHoldMaxSt>0</unlistedHoldMaxSt>
+                <unlistedHoldMinSt>0</unlistedHoldMinSt>
+                <vectorSt>0</vectorSt>
+            </assetEquity>
+            <assetOther>
+                <cashLoan>false</cashLoan>
+                <cashLoanBrokerSt>0</cashLoanBrokerSt>
+                <cashLoanHoldMaxSt>0</cashLoanHoldMaxSt>
+                <cashPosition>false</cashPosition>
+                <lboHoldMaxSt>0</lboHoldMaxSt>
+                <lboSt>0</lboSt>
+                <leaseSecurity>false</leaseSecurity>
+                <leaseSecurityHoldMaxSt>0</leaseSecurityHoldMaxSt>
+                <monetFinRefLoan>false</monetFinRefLoan>
+                <monetFinRefRepo>false</monetFinRefRepo>
+                <opcvmIncome>false</opcvmIncome>
+                <opcvmLbo>false</opcvmLbo>
+                <opcvmLboHoldMaxSt>0</opcvmLboHoldMaxSt>
+                <otherInterventionSt>0</otherInterventionSt>
+                <otherTradeSt>0</otherTradeSt>
+                <repurchaseRepoSt>0</repurchaseRepoSt>
+                <reverseRepoSt>0</reverseRepoSt>
+                <securityLendingSt>0</securityLendingSt>
+                <securityLoanSt>0</securityLoanSt>
+                <tradeDeposit>false</tradeDeposit>
+                <tradeDepositHoldMaxSt>0</tradeDepositHoldMaxSt>
+            </assetOther>
+            <assetTitri>
+                <titriAbcp>true</titriAbcp>
+                <titriAbcpHoldMax>75.00</titriAbcpHoldMax>
+                <titriAbcpHoldMaxSt>0</titriAbcpHoldMaxSt>
+                <titriAbcpHoldMin>23.00</titriAbcpHoldMin>
+                <titriAbcpHoldMinSt>0</titriAbcpHoldMinSt>
+                <titriAbs>true</titriAbs>
+                <titriAbsHoldMax>46.00</titriAbsHoldMax>
+                <titriAbsHoldMaxSt>0</titriAbsHoldMaxSt>
+                <titriAbsHoldMin>23.00</titriAbsHoldMin>
+                <titriAbsHoldMinSt>0</titriAbsHoldMinSt>
+                <titriCdo>true</titriCdo>
+                <titriCdoHoldMax>56.00</titriCdoHoldMax>
+                <titriCdoHoldMaxSt>0</titriCdoHoldMaxSt>
+                <titriCdoHoldMin>22.00</titriCdoHoldMin>
+                <titriCdoHoldMinSt>0</titriCdoHoldMinSt>
+                <titriHoldMax>99.00</titriHoldMax>
+                <titriHoldMaxSt>0</titriHoldMaxSt>
+                <titriHoldMin>50.00</titriHoldMin>
+                <titriHoldMinSt>0</titriHoldMinSt>
+                <titriInvestment>true</titriInvestment>
+                <titriItrax>true</titriItrax>
+                <titriItraxHoldMax>99.00</titriItraxHoldMax>
+                <titriItraxHoldMaxSt>0</titriItraxHoldMaxSt>
+                <titriItraxHoldMin>26.50</titriItraxHoldMin>
+                <titriItraxHoldMinSt>0</titriItraxHoldMinSt>
+            </assetTitri>
+            <assetOpcvm>
+                <allNatures>false</allNatures>
+                <alternativeHoldMaxSt>0</alternativeHoldMaxSt>
+                <alternativeManagement>false</alternativeManagement>
+                <compliance>false</compliance>
+                <complianceHoldMaxSt>0</complianceHoldMaxSt>
+                <emergentHoldMaxSt>0</emergentHoldMaxSt>
+                <emergentState>false</emergentState>
+                <isIsr>false</isIsr>
+                <opcvmAgf>false</opcvmAgf>
+                <opcvmCash>false</opcvmCash>
+                <opcvmCashMoneyMarket>false</opcvmCashMoneyMarket>
+                <opcvmCashMoneyMarketCt>false</opcvmCashMoneyMarketCt>
+                <opcvmHoldMaxSt>0</opcvmHoldMaxSt>
+                <opcvmHoldMinSt>0</opcvmHoldMinSt>
+                <opcvmInvestment>false</opcvmInvestment>
+                <otherCriteriaSt>0</otherCriteriaSt>
+                <foreignHoldMaxSt>0</foreignHoldMaxSt>
+                <foreignInvestment>false</foreignInvestment>
+                <trackerHoldMaxSt>0</trackerHoldMaxSt>
+                <trackerEtf>false</trackerEtf>
+                <otherInvestHoldMaxSt>0</otherInvestHoldMaxSt>
+                <otherInvestSt>0</otherInvestSt>
+                <specificRestrictionSt>0</specificRestrictionSt>
+                <twoPcentLeverage>false</twoPcentLeverage>
+                <uncomplianceOpcvmHolder>false</uncomplianceOpcvmHolder>
+                <uncomplianceHoldMaxSt>0</uncomplianceHoldMaxSt>
+                <uncomplianceSt>0</uncomplianceSt>
+                <realEstateInvestment>false</realEstateInvestment>
+                <realEstateInvHoldMaxSt>0</realEstateInvHoldMaxSt>
+                <commodityInvestment>false</commodityInvestment>
+                <commodityInvestHoldMaxSt>0</commodityInvestHoldMaxSt>
+            </assetOpcvm>
+            <assetIntDerivative>
+                <derivativeHoldMaxSt>0</derivativeHoldMaxSt>
+                <derivativeHoldMinSt>0</derivativeHoldMinSt>
+                <derivativeInstrument>false</derivativeInstrument>
+                <derivativesInstrSt>0</derivativesInstrSt>
+                <derivativesOtherUseSt>0</derivativesOtherUseSt>
+                <derivativesStratSt>0</derivativesStratSt>
+                <forwardMarket>false</forwardMarket>
+                <leverageRatioMaxSt>0</leverageRatioMaxSt>
+                <organizedMarket>false</organizedMarket>
+                <regulatedMarket>false</regulatedMarket>
+                <specificRestrictionSt>0</specificRestrictionSt>
+            </assetIntDerivative>
+            <segmentActorList>
+                <segmentActor>
+                    <actorRole>Sous Gestionnaire Financier par délégation</actorRole>
+                    <isMandatory>false</isMandatory>
+                    <actorRoleSelect>true</actorRoleSelect>
+                    <actorDelegFinancialMng>
+                        <label>AGFAM</label>
+                        <legalForm>Société Anonyme</legalForm>
+                    </actorDelegFinancialMng>
+                </segmentActor>
+            </segmentActorList>
+            <classifierList>
+                <classifier>
+                    <code>06R</code>
+                    <computedClassLabel>AGF REFERENCE 06 R</computedClassLabel>
+                    <webCustomerProfileSt>0</webCustomerProfileSt>
+                    <reportingModel>reporting model 2</reportingModel>
+                    <creationDateSt>0</creationDateSt>
+                    <masters>false</masters>
+                    <fictiveProduct>false</fictiveProduct>
+                    <customerDescription>commentaire sur la description client</customerDescription>
+                    <ratingSpSt>0</ratingSpSt>
+                    <classTypeSt>0</classTypeSt>
+                    <concernedSubscribers>MAIF</concernedSubscribers>
+                    <subsMinAmount>lors de la première souscription:30 parts</subsMinAmount>
+                    <subscribersTypeSt>0</subscribersTypeSt>
+                    <subscribersType>Tout souscripteur</subscribersType>
+                    <statisticEditionDateSt>0</statisticEditionDateSt>
+                    <ratingSp>C</ratingSp>
+                    <ratingMoodys>Aa/MR2</ratingMoodys>
+                    <reportingModelType>reporting type 2</reportingModelType>
+                    <subsMinAmountSt>0</subsMinAmountSt>
+                    <reportingModelSt>0</reportingModelSt>
+                    <closeDateSt>0</closeDateSt>
+                    <classTypeCode>R</classTypeCode>
+                    <classTypeCodeSt>0</classTypeCodeSt>
+                    <classType>Retail</classType>
+                    <divisionClass>10</divisionClass>
+                    <statisticEditionDate>2007-02-01 00:00:00.0</statisticEditionDate>
+                    <concernedSubscribersSt>0</concernedSubscribersSt>
+                    <ratingMoodysSt>0</ratingMoodysSt>
+                    <marketingEndDateSt>0</marketingEndDateSt>
+                    <teCalculModeSt>1</teCalculModeSt>
+                    <marketingEndDate>2010-01-20 00:00:00.0</marketingEndDate>
+                    <firstSubsMinAmount>First 150 000 ?</firstSubsMinAmount>
+                    <firstSubsMinAmountSt>0</firstSubsMinAmountSt>
+                    <divisionClassSt>0</divisionClassSt>
+                    <webCustomerNeedsSt>0</webCustomerNeedsSt>
+                    <marketingBeginDateSt>0</marketingBeginDateSt>
+                    <reportingModelTypeSt>0</reportingModelTypeSt>
+                    <customerDescriptionSt>0</customerDescriptionSt>
+                    <marketingBeginDate>2000-12-31 00:00:00.0</marketingBeginDate>
+                    <beginDate>2000-01-01</beginDate>
+                    <commission>
+                        <maxGainedRedemptComSt>0</maxGainedRedemptComSt>
+                        <maxGainedSubsComSt>0</maxGainedSubsComSt>
+                        <maxUnvestedSubsSt>0</maxUnvestedSubsSt>
+                        <movementBaseSt>0</movementBaseSt>
+                        <maxUnvestedRedemptSt>0</maxUnvestedRedemptSt>
+                        <maxGainedSubsSt>0</maxGainedSubsSt>
+                        <maxGainedRedemptSt>0</maxGainedRedemptSt>
+                        <movementAmountSt>0</movementAmountSt>
+                        <movementBeneficiarySt>0</movementBeneficiarySt>
+                        <surperfMaxSt>0</surperfMaxSt>
+                        <surperfFrequencySt>0</surperfFrequencySt>
+                        <maxUnvestedRedemptComSt>0</maxUnvestedRedemptComSt>
+                        <maxUnvestedSubsComSt>0</maxUnvestedSubsComSt>
+                        <surperfThresholdSt>0</surperfThresholdSt>
+                        <surperfBpSt>0</surperfBpSt>
+                        <surperfCalculModelSt>0</surperfCalculModelSt>
+                        <drawingRedemptOption>false</drawingRedemptOption>
+                        <rateIndexOption>false</rateIndexOption>
+                        <baseDrawingSt>0</baseDrawingSt>
+                        <baseRateSt>0</baseRateSt>
+                        <exonerationCaseSt>0</exonerationCaseSt>
+                        <surperfBenchmark>false</surperfBenchmark>
+                    </commission>
+                    <marketingCountryDateList>
+                        <marketingCountryDate>
+                            <country>France</country>
+                            <marketingStartingDate>2002-02-02 00:00:00.0</marketingStartingDate>
+                        </marketingCountryDate>
+                    </marketingCountryDateList>
+                    <partList>
+                        <part>
+                            <computedPartLabel>AGF REFERENCE 06 R C</computedPartLabel>
+                            <creationDateSt>0</creationDateSt>
+                            <code>06R_C</code>
+                            <distributionFrequencySt>-1</distributionFrequencySt>
+                            <capitalisationFrequencySt>0</capitalisationFrequencySt>
+                            <capitalisationFrequency>trimestrielle</capitalisationFrequency>
+                            <cDCode>C</cDCode>
+                            <cD>Capitalisant</cD>
+                            <closeDateSt>0</closeDateSt>
+                            <endDate>9999-12-31 00:00:00.0</endDate>
+                            <creationDate>2000-01-01 00:00:00.0</creationDate>
+                            <beginDate>2000-01-01</beginDate>
+                            <branchList>
+                                <branch>
+                                    <computedBranchLabel>AGF REFERENCE 06 R C EUR</computedBranchLabel>
+                                    <creationDateSt>0</creationDateSt>
+                                    <vlCopySundayToFriday>false</vlCopySundayToFriday>
+                                    <code>06R_C_EUR</code>
+                                    <isinCodeSt>0</isinCodeSt>
+                                    <referenceValuation>false</referenceValuation>
+                                    <historicalStartDate>2002-12-31 00:00:00.0</historicalStartDate>
+                                    <currency>EUROS</currency>
+                                    <historicalStartDateSt>0</historicalStartDateSt>
+                                    <firstValuationDate>2001-12-31 00:00:00.0</firstValuationDate>
+                                    <initialAbondementSt>0</initialAbondementSt>
+                                    <firstValuationDateSt>0</firstValuationDateSt>
+                                    <webSiteEnglishPublic>true</webSiteEnglishPublic>
+                                    <closeDate>9999-12-31 00:00:00.0</closeDate>
+                                    <originValuationSt>0</originValuationSt>
+                                    <sicovamCodeSt>0</sicovamCodeSt>
+                                    <webSiteFrenchPublic>false</webSiteFrenchPublic>
+                                    <isinCode>FR666666FFF</isinCode>
+                                    <closeDateSt>0</closeDateSt>
+                                    <endDate>9999-12-31 00:00:00.0</endDate>
+                                    <creationDate>2000-01-01 00:00:00.0</creationDate>
+                                    <beginDate>2000-01-01</beginDate>
+                                    <securityEventList>
+                                        <securityEvent>
+                                            <exchangeRate>1000.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-06 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>10999.00000000000000</exchangeRate>
+                                            <securityEventDate>2005-07-01 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                        <securityEvent>
+                                            <exchangeRate>45230.00000000000000</exchangeRate>
+                                            <securityEventDate>2003-02-10 00:00:00.0</securityEventDate>
+                                        </securityEvent>
+                                    </securityEventList>
+                                </branch>
+                            </branchList>
+                        </part>
+                    </partList>
+                </classifier>
+            </classifierList>
+        </segment>
+    </segmentList>
+</status>
